@@ -1,0 +1,697 @@
+[BBB    W| W     B|  W   WB|B     WW|   B    |      WB|W WW    |  B WB  ,(7,4)],0.5755213
+[  B    B|B  B  WW|  BWW   |  W  B B| W   W  | WWB  W |   BW   |   B    ,(3,2)],0.5065125
+[    WWBW|  WW  BW|BW W   B|   B    | W   W  |BB    B | B WB W |     BB ,(5,1)],0.47644502
+[BBWWBWBW| WB WWBB|WBWBBWWB|WWBWWBBW|BBBWBWWW|WBBBWWBB|WBWBB WW|BWBBWWBW,(7,1)],0.0
+[WBBW B B|WB BBBWB| BWWW WW|W  W  BW|B  W  W |BBWBW W | WWBB BW|BB   B W,(6,4)],0.99592
+[     W  |        |   B    |        |     B W|WB      |   W   B|W       ,(7,0)],0.16253248
+[BBW WBBB|BB BWBBW|WBWW BBB|BW BWW W| WBBWW B|BBWWWBBW|WWBWBWWW|WWBWBWBW,(6,1)],0.9969101
+[WWWBWWBW|WBWBBBWB| BWWWBWB| B BB WW|BWBBWWBB| WWWBBWW|BBBWWBBW|BWBWBWWB,(0,2)],0.99704504
+[   W    |        | B WW  B|  W B  W|   WBWB |BBB     |B WWB   |W   W   ,(3,7)],0.6775716
+[        |        |        | B      |      W |        |        |        ,(3,1)],0.076038435
+[BBWWWBWB| WBB  BW|BWWBW WB|  WB BBW| BB  W W|WWWBWWBB|BW BB BW|WBBW W W,(2,2)],0.9965502
+[        |B  B    |    W   |      B |        |        | W   W  |        ,(3,6)],0.07466239
+[W BWBBB |WB WBBW |BWBBWW  |BBWWWBWB|BBB WW  | WBWBBBW|B BWWBWW|BWWBWWW ,(6,2)],0.9965251
+[ BBWWBWW|BBWWBB B| BBWWWBW| WWBBB W|WBBBWWW |WBBWWBBB|WWW BWB |BBW WBWW,(0,4)],0.9966949
+[BBWB  W |B       |  WB  B | WB  W W|B   W WW|       B|  BB   W|    W WB,(6,3)],0.56090003
+[BBBWWWBB|BBWBWBWW| WWWBB W|BW W WBB|WBBWWBWB|BBWBWBWW|WBWBBWBW|BWBWBWBW,(1,5)],0.99739
+[ WWB W  | W     W|  W  W B|     B  |      B |  BWWB  |B W   B |    WBB ,(2,2)],0.5220619
+[    W   |        |B    W W|   WWB  |   B    | W      |B  B    | B      ,(2,0)],0.20714001
+[ WB BBW |  WBWBBW|W BB  W |B BBWWW | BBW BWW|   BWWBW|  B W BW|  WBW WB,(1,2)],0.99587995
+[W    W W|B   W   | WW B  B|B BWB   |  W  WBW|B  W WWW|W  BB B |BWBB   B,(2,1)],0.69440496
+[ W BWB  | B B  B |   W    |  B W B |      B |W  B    |W   W W |  B WWW ,(7,6)],0.65876925
+[BBWWWBW |BBBWBBWW|W W BWB |BBW  WBW| WBBWW B|WB WBBBW|BB  WWBW|B WBWBWW,(2,6)],0.996545
+[BBW     |  B BW  |    B  B|   W WWB| WBW W  | W     B|B    W W|    BW  ,(3,3)],0.5314351
+[BWBW  BW|B WBBW  |B W BW  |WWWB  WW|BB WB BB| BB W WW|B B   WB|  W W W ,(6,6)],0.99626
+[  W     |        |        |        |        |  B  B  |  B     |WW    W ,(7,6)],0.23075375
+[WB B W  |BW      | W B    |WB  WWBW|      WB| WB   W |  BWB B | WBB    ,(7,3)],0.13521688
+[WBBWB WW|BWWBBBWW| BB WWWB| WBB   W|BB   WWB|B B WB  |   W   W| BB W  W,(3,3)],0.99594
+[WWBBWWW |   WBWWB|WBWB   B| BWW  BW|B   B B | WBB WWB|BWB WB  |  B BW W,(4,0)],0.99626005
+[   W    |        |        |  B     |        |        |        |W       ,(0,3)],0.10835197
+[        |    B B |W B     |  W   B |BB     B|  WW    |    W  W| W      ,(4,1)],0.13450737
+[ W  BW  | BB    W| WW B   | W  B B |WW  WB B|W       |WBWW  W |B BBBW B,(6,3)],0.9931536
+[B W   W |B  W BBW|  W   B |       B|  W W   |    BWW |     B W|   B    ,(1,3)],0.59069246
+[WBB  BWW|WWBWB BW|BWBWB W |WBWBWWBW|W WBBWW |BBBWB BW|B WBBWWB| BWWWBBB,(0,2)],0.99639004
+[        |        |        |        |        |     B  |       W|        ,(5,5)],0.014697038
+[        |        |        |        |        |     W  |   B    |    W   ,(7,4)],0.019609056
+[WWBBWBWW|WBWWWBBW|WBBWBBWB|BBWW WWB|B BBBWWW| W WWBBB|BBWBWWBW|BWWBWBB ,(0,4)],0.99717504
+[   W B  |       B|   BB  B|        |       W|   W  W |W   BW  |      W ,(0,3)],0.07697199
+[        |    B   |   B    |  W     |W     W | W      |   B    |W     B ,(7,0)],0.015112497
+[W B     |    BB W|  W WW B|WB  BW  |  B B W |   BW W |      B |B W  W  ,(5,4)],0.8655674
+[  B     |        |W       |    W W |        |W       |B   B   |        ,(3,6)],-0.0050925002
+[WBBBWWBB|BBW WBWW|WWB  WWW|BWBWWWBB|BBWBBBWW|WBBBWWWB|BWBWBWBB|BWWWBW  ,(0,4)],0.0
+[     B W|   BB W | B WB   |W       |B W     |WB   B  |   W B  |   WW   ,(2,4)],0.2172925
+[ B      |WB W    |        |WW BB   |WWBB  WB|W  B    | W      |W  B    ,(1,0)],0.78547853
+[ B WBW W|WBB     |     B  |BB WW B | W   W W|W W B   |B   W   |BW W B B,(4,5)],0.7518563
+[BB   WW |  W  W  | B  WB  |   BWB  |BBWW WB |BW      |B WWB   |W  B   W,(1,2)],0.8921011
+[BWB   W |WBW B B |WBW BBBW|  W W W | WB WB B|WWBWB  W|B B  WB |B WWBBW ,(1,4)],0.8974487
+[W      W|   BB  B|     W  |     B  |       W|     WBW|BWB B  W|  B W   ,(1,4)],0.6221691
+[W B W W |    B   |        |B W   W |B       |        | B      |       W,(0,4)],0.15630123
+[BBB WBWW|WWB  BWW|BBWWWBWW|WW B WB |BBWBBB  |BB WW B |BB  BWBB|W WWWBWW,(6,6)],0.99644005
+[        |        |        |        |        |        |     W  |        ,(6,5)],0.009940002
+[BBWW W W|WW BBBWB| BBB BWW|B  W W  |  WWWB B|BWWB WWW| B B WBW|BWBBBWBW,(0,3)],0.9962249
+[W WWB BB| WW W B |B    WBB|W W BW  |B B B  W|W   W W | BB WBW |B  BWW B,(4,7)],0.9961709
+[ W B W B|W    BW |        |B  BB  W|W  W W W|   BW   |    B W |BB    BW,(4,7)],0.3143181
+[WBWW WWB|WWWBWWBB|WBWBB BW|BW BWWWB|WBWWBBBW|B BBBWBW|BBWWBBWB|WBWBWBW ,(1,1)],0.9971551
+[BWWWBWBB|W WBBW B|BBBWWBBW|WWWBBBWW|BWBWWBBW|BBW WWBB|WBWBBBWW|WWWB BWB,(2,0)],0.9970849
+[BBBWWWBB|WBBWBWW |WBW  W W|W W WB  | WB BBWB|WB BWBBB|BWWBWW  | BWBBWW ,(0,3)],0.99653006
+[W   W B |  B     |  B     | B      |      W |        |     W  |        ,(3,1)],0.0072750016
+[ WBBWWBB|WB WWBW |WBBBW B |WWWB BBB|BBWWW WW|WWBBWWBB|BWWWBBBW|BBBWBWWW,(2,4)],0.996785
+[   W  B |W  BB W |   BBW  |B W B   |        |        |  W  W  |  WW B  ,(6,5)],0.58883756
+[WB WBWBB|B   WB W|WBWW BW |WB  WW B|BWWB   B|WBBWBWWB| BBWBBW |W BWWB W,(6,3)],0.9964949
+[ W  BBBW|  B W  B|WBW     | B W BWW|WBW    B|W W    B| B  BBW | WW B BW,(5,7)],0.9951051
+[WWWB BW |B BW BWW| WBBBWBW|BBWBWBWB|WBWBWB  |BW WWBWW|BWB BWBW|WBWBWBBW,(5,4)],0.99671
+[     B  |BBW  B W|  B W B |B   BW W|  BW  W |WBW WB  |BBWB W W|BBW WW  ,(6,3)],0.97333014
+[WW BBB B|BWBBBWBB|BBWWWB W|WWBBWWWB|WBWWWBWW|WWW  WBB|BB WB WB|BW B WWB,(4,7)],0.9966
+[  WB WBW|W WWB   |BWWB BBW|BWBWBW B|  WWB  B|BWBBWWB |B WBBWWB|WBWBWWB ,(5,0)],0.996565
+[BWBWWBBW|BWWWBWBB|BWWBWBBB| B BW WW|BWWBWBBB|WBB BWWB|WWBWBWBB|WW WBWWW,(6,1)],0.99720496
+[W WWBWBB|BBBWB WW|W B BWWB| B  WBBW|WW     W|WBBWWW B|WBBW BWB|BWB  WB ,(2,6)],0.9962001
+[WBB   B |   BB  W|    B   |W  W W  |      W |    W W |BB W  B | W W B  ,(5,6)],0.17601
+[B WBB BB|WB  WWBW| WWW   W|BB WBWWB|W B W W |BW W BBB|  BBW WB|B BW W  ,(7,0)],0.99614495
+[ W  WBWB|WWBWB W |BBB BBB |W WW   B| BB WB W| WWW BW |B  BWBWW|W  BB W ,(1,6)],0.99586
+[B     WB|  W    B|WB B    |W  BW W |  W   WW|   WB   |WBB  BB |   B   W,(1,7)],0.5245325
+[   W WB |        |W B     |W       |    WB W|   B    | B    B |    B W ,(2,2)],0.1613782
+[WB BW WB|BBWW B  | BW  WWB|W BBW BW|BBW WW  | BB W  B|WB WBBWW|BWBWWWBB,(0,7)],0.99505997
+[  WW    | WW     |     B  | B  B  W|B  WB   |      W | B   B W|        ,(4,3)],0.18662336
+[W       |  B  BW | BB     | W   W  |   B   B|  W     |  B     | WW    W,(7,2)],0.27880877
+[ W     W|     B  |     WBB|        |WWBB WB |    BB W|W   W W | B  W  B,(4,1)],0.2829042
+[BBWWBWBB|WWBWB  B|BBBW BWW|WBBBWB B|  WWW BW|WWWBBWBW|W BWBW B|WB  WB W,(0,0)],0.984965
+[  B     |     W  |        | B      |  WW    |        |  W     |   BB   ,(7,4)],0.23718755
+[        |B  BB WB| B W  WB|  BB W W| W    W |WW  B   |    W   |B W  WB ,(5,0)],0.6490975
+[B       | BB B   |W W     |   B    | BW   W |B W B   |W   W   |WB WWW B,(5,2)],0.5178744
+[WBBWBBWW|WBW BBWB| BWWWBBW|WWBBBWWW|BWWWBBBW|WBWBBWBB|WBBBWBWW|BWWWBBBW,(6,3)],0.99800503
+[   W    |    W   |     W  |B  B    |B       |      W |        |        ,(5,6)],0.0957275
+[BBWWWBBB|BWBWWBWW|WWBBB WB|BBWW BBB|BW WW WB|W WWBWWW|WBB BWBW|WBWBBBWB,(7,5)],0.99696
+[W  WB   |BWBB BW | W BB WW|W W  WBB|WWBWBW W|  W B WW|  W   BB|BBBWBWBB,(4,5)],0.99641496
+[BW  B  W|WW WBWB |      WW|W  B BBB|   WWB B|BW    B |W  B    |W  BW  B,(5,0)],0.74015856
+[        |        |        |        |        |        |        |  W     ,(7,2)],0.032499377
+[W  WWBW |WW WBWBW|BWWBB WB|BB  WB B|WBWB BW |WBW   BW|BWBWBW W|B BBWBBW,(0,0)],0.9964501
+[       W|        |        | W      |     B  |        |        |        ,(0,7)],0.09205501
+[W       |        |    B B |     WW |   B  B |   WW  W|B  WB   |    B  W,(3,6)],0.08344451
+[BWWWBWBB|WBWWBWWW|WW B BBB|BB BBWWB|BWBWBWWW|BWWBBWBW|WBBBWBWW|WWBBBWWB,(1,2)],0.9976999
+[ B  W WB|WB  W  B|  BWB WB| B   W W|B    W  |   W   B|W   BW W|B B W BW,(2,6)],0.9115461
+[        |     B  |   B    |        |       W|    W   |        |W     B ,(2,3)],0.06527001
+[        |        |     B  |        |BW      | BWW  B |W       |      W ,(4,1)],0.0219525
+[B  B   W| B W WWB|B W BBBW|BWB WWW | BWWBBB |W BB WB |WW  WB  | WWBB W ,(4,1)],0.996405
+[BBWBBBWW|WWWB    |BWBWBBWB|WW WBBB |WBBB W B|BBWW W  |WWBBWWWB|WB WW  B,(7,7)],0.99662507
+[WWBBWBBB|BWW WW W|  BBB BB| WWBWWWB|BBBW BWB|WWBWBWBW|BWBB WWW|WWW WBBB,(7,2)],0.996775
+[     BB |BB  BW  |W    W  |W W     | BW  W W|W B    W|        |WWBB  BB,(5,7)],-0.016653746
+[BBBWWBBW|WBBBWBWB|BBWWBBWW|WWBWW BW|BBBWBBBW|BWBBWWWB|BW WBBWW|WWBWWWBW,(1,7)],-0.5
+[BBWWBWWW|WBBBWWBB|BWWBBBWW|WBWWWBWB|BWWBBBWB|WBBWWWBB|BW WBW W|BBBWBBWW,(1,6)],0.0
+[    BB  |  W W   |   WB   |        | W      | B B    |W   W   |WBB   BW,(5,3)],0.4357075
+[BBW     |  B W W |        |     W  |    W B |        |  B    W|B       ,(7,0)],0.32116354
+[  W  B  |  W     |BB W W  |   BW   |B     W |    BW  |   B    |W B     ,(3,3)],0.6677654
+[BB  W   |W    BW |       B| WWBB   |W  B   W|    B   |    W  B|W   BWW ,(1,6)],0.35545996
+[  WB B B| BB W  B| WW  WBW| B  W WW|W B   WB|B BW BBB|W W W   |   WB  W,(3,7)],0.99513006
+[WBBBWBWB|WWBWWBWB|BWBBWWWB|BBWW WBW|WWWB BBW| BWBWBWW|BWBB BBB|W WWBWBW,(4,2)],0.99708
+[B  W  B | W      |    W B |     W  |        |WBWBWB  | WW  B  |B  WB B ,(7,4)],0.30300254
+[   W   W| W W    |        |     B  |        |    BW B|   W    | B B    ,(0,7)],0.11656375
+[B WB WW | WBB    | W WWWBB|BWB WB  |  BW    | B  B B | WB  BW | WW  W B,(5,4)],0.98723
+[ W   WB | B    B |        | BB BWB |   W  BW| W   B  |     WWB|W  WW B ,(7,6)],0.61725116
+[ BWB  WB| WWB    | WWW WB | B   WW |  B    B| WBB  B |B  WWW  |B   B   ,(7,4)],0.8739749
+[WWBWBWBW|WBWWBWWW| BBWWBBB|BWBBBWWW|WBBWW BB|BBWBWW B|WWBB BBB|BBWWBWWW,(0,2)],-0.2063253
+[ BWBB BW|WWBBBWBB|BBWWBWWB|WBWBWWBB|B WBB WW|WWB WBB |WW WBWWW|WWBWBBWB,(5,4)],0.9965949
+[BW BWWWB|W  W WWB|WBBWBB W|WBWW B B|BWBBWW B|BWWWBB W|WBWB BBB|BBW W WB,(0,7)],0.9699051
+[ BW WBB |WB  W WB| WWBBWWB|B WWW WW|W BBWBBB|B WBBBWB|  BWBW  |WWBWBW  ,(4,0)],0.9964449
+[ W  W B |       B|WW   BBW|BWWW BWB| BW  W  |WW  B BB| W BB WW| WBB BWB,(2,0)],0.99605495
+[  WB BBW|WWWBBBWB|WBWWW WB|BBBW WWW| WB B BW|W BW BBB|WWWBWBWW|WBBWBBB ,(6,2)],0.99667007
+[WBBWBBWW|WWBBBWB |WB WWBWW|BBWBWWWB|BBB WBBW|BWWBB WW|WWBWWBBW|WBBWBWBB,(2,5)],0.99722004
+[    B BW| W    W |B WWW W | B  BWWB|    B BB| B      | B     W| BW W   ,(3,7)],0.9000524
+[  WWW B |W   W  B|BW BB   |W    W  |        |WB   B  |B  B B  |BW W  WB,(6,5)],0.6682274
+[   BBWBW| B  WBBW| B  W  B|B B   WB|  W W  W|BWW WBWB|WW  W BB|WW WBBB ,(7,5)],0.9952749
+[   W    |  W     |        |        |        |        |       B|B   W   ,(7,4)],-0.0043925
+[WBWBWBWB|B WBWBWW|BBWWWBBB|WW WBWBW|WBWBBBWB|WBWBWWWB|BWWWBBWB|WBBWBBBW,(2,5)],0.99826497
+[BWWBBWWB|WWBW WBW|BBWBB BW|W WBBWWW|BW WB BB|BWWBWBBB|B W BBWW|WBWWWBBW,(4,3)],0.9968551
+[W B BB  |WBWBBW B| W WWWBB|  B B W |B  W WWB| BWB    |WB BW  W|WW BB W ,(0,4)],0.99544
+[WWBWWBBW|W  WBBBW|BWBB  BW|BBWWWBW |WBBB B W|WB   WBB|WWB B BW| WBW WBW,(2,6)],0.99655515
+[B BBBWWB|    WBWW|BWW WBW |W BBW BW| BBWBWWW|BBBWB  B|WBWBWBWW|BWBWWBBW,(4,1)],0.996685
+[BB W  WB|WBW BBWB|W BWWWBB|BWBWBBB |WWBBW WW| BWWWBBW|WWBB BWB|BWWW WBB,(6,7)],0.9963951
+[    W   |       B|  B    W|W    B  |        |  W    B|        |   W    ,(2,7)],0.12183185
+[ B  WB W|      WB|        |  W     |B   B   |B  B  WW|  BBW W |W   W   ,(7,4)],0.561465
+[WWWB BBB|BWBBWBWW|BWBWWWBW|WBWWW  B|WBWBBWWB|BBWBWWBW|WWBWB BB|BWBWWBBB,(6,6)],0.99731505
+[   WW   |BBB  W W|WW B B B|  BB BW |WB    WW| W B WWB|    B   |B BWW W ,(5,5)],0.9951199
+[BB    BW| W WW  B|     WW | B WW   |WB    BB|BW   W B|  BWB  B| W    W ,(2,6)],0.92025965
+[  BBBWBW|BBBWB B |  WBWWBW|   W  WW|W W  BBW|W WBWB  |WW WWWBW|BBBWBB B,(5,4)],0.99651
+[B       |  BW W W|        |      B | W   B  |B  W    |        |B     W ,(0,0)],0.067434356
+[    B   |  W  WW |B   B   |  B    W| W      |BW    B |      W |    B   ,(2,4)],0.19973996
+[W BW B B|B  WWWB | WWB  WW|W   WW B|BWBB BWB|  WW  B |WBBB BW |WBWBWBBW,(5,3)],0.99607503
+[  WBW   |WB W B  |  B     |   W W  | BB W W | BW   WW|WWBB   B|B  BBB W,(7,0)],0.7126238
+[     W  |        |        |        |        |        |        |        ,(0,5)],0.030123744
+[ W      | W   BB | B W B  |  B     |      WW|       W|    W  W|  BB    ,(1,1)],0.06523626
+[BBW  WB | WBBBWWW| WBWBBB |WBB   WB|WB   WWB|WBWBBB W|BW  BBWW|W  WW WB,(5,4)],0.99644005
+[    WBW | W  B   |        |        |WB B    |W       | B     B|W       ,(6,7)],0.50861746
+[      W |  B    W|BW  WB B|B W     |    W WB|   W    |   BW B |       B,(2,7)],0.39657372
+[ WB  WWW|WBBBWW W|BWBW WW |WB W  BB|WWB WBWW|BBBW  WB|   W BBB|BB BW B ,(1,5)],0.99608994
+[B B    B|  W    B| BW  WW |  WB W W|B B     |W BB WBW| W BB WB|WW W    ,(2,2)],0.97667515
+[WWWBBBWW|WBWBBBWW|WBBBWWBB|B WWBBWW|WW BBWBB|WBWW BWB|WBWBBWBW|BBBWWWBW,(6,0)],0.99770004
+[  WBWBWB|BBW BWWW|WBWWBBBW|BWBWBBWB|WBWWWBBW|BWBBB BW|BWBWWBW |B BWWWBW,(2,5)],0.99693
+[     W B|W  B B  |   B  WW|        |     W  |B  BW   |     W B|     BW ,(0,7)],0.55411375
+[  W     |   W W  |      W |BB      |  B     |        |        |        ,(0,2)],0.14487126
+[      W |  W B  B|B   BB  | BWW    |B       |   W W  |W WBBW B| W      ,(1,4)],0.5376358
+[BB  WWBB|WWBWBWBW|BWBWBWBB|W BBW W |WBWBWBWB|WBWWBBBW|B BWBWWW|WWWBWBBB,(1,2)],0.9710224
+[  WB  W |BWBBB  W|    W B |BBW  W  |WB  B W |W  W WWB|B B   WW| W BB BW,(1,7)],0.9688099
+[ B  WBBW|  W BWB |BW   W  |WW WB BB| WBBWB W|WB BWB W|B B WB W|WBW BWWB,(1,6)],0.99039495
+[B WW BWB|  BB WB |   W WWB|W BW  WB|B W B   |   B   W|     B B| W  BW W,(0,0)],0.9602901
+[WBB  WB |BBB    W| WBW  WW|B  W BB | W WWB  |WB B B W|WW W W B|W BBB  W,(4,3)],0.99637
+[  BB   B| WW BB  | BWW  B |  WW B W| W  B   | W   B  |WW  W WB| BW  B B,(1,5)],0.96399003
+[BBBWW  W| BBW BBW|B WB WWB|B WB BBB|WB WWBWW|WWBWWBWW|WBW B   |  BBBW W,(2,7)],0.99636
+[       W|        |        |        |        |W    B  |        |        ,(5,0)],0.10646752
+[BWWW WBB|W WBBWWB|BBBWB  B|WWWB W W|B W BB  |WBBBWWBW| BBWW WB|  W W  B,(5,5)],0.9964201
+[BWWBB BW|BBWW WBW|BB  B WB| WB WB  |  B  BW |BWWBWBW |B W WWBW| WWBWWBB,(0,0)],0.99630004
+[        |       B|  W     |        |        |W       |        |  B     ,(7,2)],0.14043501
+[BB  W WB| W BBWW |WWBWBBBW|  W   B |  BW    |  W    B|  B  BWB| W   BWW,(1,3)],0.93457764
+[  W     |   W B  | BB W  W|B W  BW |BB  B   | W W  WW|  BBB   | W B   W,(3,5)],-0.022034999
+[  BW  W |B W     |   W  W |   BB  B|      B |   W  BB|  BWWW  |B     W ,(4,6)],0.47092962
+[    W   |W       |  B   B |   B    |     W  |        |       B|    WW  ,(1,0)],0.14692754
+[    WW  |  W W B |     B  |W       | B W  B |        |     B  |      B ,(1,6)],0.23607747
+[BWBW  BB|BBW   WW| B WBBB |BW WB W |  WW WW |W       |B B WB W|W  B   B,(6,0)],0.9719675
+[B B  BBB|W BWB WW| WWWBBWB|WWWBWWWB|  WB WB |BWBBB  B|WBBWBWBW| B WW WW,(6,0)],0.99658
+[   B    | B    W |     W  |       B|        | B   W  |W   WB  |   W    ,(7,3)],-0.010170001
+[BB   WW |WWB BW W|  B  W  |BBB BBB |WW  W W |WW BWWB |BBWBBWWB|WW BW  B,(7,1)],0.9707201
+[ B BB W |BB W    |B  BWWW |WW WW WB|B BB B B| W WWBWB| WW B  W| WBB W B,(0,3)],0.9961101
+[ B  B  B|BW   B  |W  BB WB|WWW   B | BB BWWW|W   WW W| B   W  |      BW,(2,6)],0.91855365
+[  WBW BW|BWB    B|W  BB  W|    B WW|B       |WWB  WBB|WWWB  W |BB   W  ,(6,6)],0.6966912
+[BBWBWB W|WWWBBWBB|WBWWBWBB|BWBBBWB |BBWBWBWW|WWBBWBWB|WWBWWWBW|BWWWBBBW,(6,2)],0.0
+[BBBWBWBW|BWWWBWBB|WBBW WWB|BWWBWBWW|BBBWBBBW|WWBBWWWB|WBWWWBWW|WBBWBWBB,(3,7)],1.0
+[B BBW  B|W B   WW|BB WWW W| BW  BW |BB WBW B|BW    WW| W  B  W|BBW BW B,(7,7)],0.99615985
+[WWBBWW B|BWBWWBWB|WWWBB WW|WBW  WBB|WWW BB B|BB BW WW|WB WWBBB| BBBWBWB,(7,3)],0.9966999
+[ WB BWWW|   W B  |BBWW  WB|  BBW B |      WW| B      |B   WBWW|  W B  B,(2,3)],0.8269149
+[BBBWW WW|WWBBBWBW| BBWWWBW|WWWB BBB|WBBW WWB|BWBWWBBW|BWWBWBWW|BBWBWBB ,(2,3)],0.99712
+[W     W |        |    WB  |     B  |   B    |BW      |       W|  B     ,(3,5)],0.065518126
+[ B  BW B|BWW BWWB|BBWBB WW|WWBBW WB|WWBWW BW|B WBWWBB|WBWB B W|WWBBWBWB,(4,1)],0.99661
+[B BW B W|    B   |  B     |W BB WB |  W    B| WB  WB |WWB WWW |      WB,(4,7)],0.9943349
+[WW      |W     BW| W  W B |W  B    |B W  B  |B   WBBB|B   WWB |W  B  W ,(1,0)],0.7127837
+[   W W  |   BW   | B W   B|   W B  |BW  WWBW|B  WB   |W      W|  B B  B,(3,3)],0.64696944
+[BB WWB  |WBWW  B |  BBBW B|WB W WWB|BBWWB   |W WW    |BB  B  W|  B  WW ,(7,2)],0.99024
+[      WB|WBWB   B|WW   B B| B B WB |B    WWW| W  BB B|      WW| W B BWW,(0,7)],0.91500413
+[WBWB BB | BBWBWWW|  BWBWW |WBWB  WW|W WB  BB|BWWBWBWB|  B BBBW|W   WWWB,(1,3)],0.99571484
+[ BBWBB B|WBWWW WW|BWBWBBBW|BWWBBWBB|WBWBWWWB|WWWBWBB |WBBWBWBW|BWBBBWWW,(7,0)],0.9969999
+[ WWBBWBB|WBWWWBBB|B WWW  B|W   BB W|WW WWWBB|WB BBWWB|BWBBWBW |BB BWWWB,(5,4)],0.99665004
+[     B  | W  W  B|B  W B B| B B  W |WW    W |   W    |   BB   |  WW    ,(4,6)],0.19499934
+[    W   |  W   BW|  W  W  | BWBB  W| BBW   B|B  W   W|B B   W |   B  W ,(2,2)],0.6994825
+[WBB WWWB|W WBBWBW|BW BBWBB|B W B WW|WBBBWBBB|WWBWBWW |W BWBWBW|BB W WBW,(7,1)],0.9966
+[     W  | W  W   |   B    |  B B  W| B B  BW| W     B|    B WB|W  W    ,(6,7)],-0.016004998
+[ BWWB W |BWB BWB |WBWB WBW|WBWWW BW|WWBW W  |BWBBB B |WBWWWBWB|BBWBBBWB,(7,0)],0.99608517
+[ B      |B WWW WB|   BB WB|   W    |B      B|W  W WBW|   B   W|B  W   B,(0,1)],0.6957311
+[WBB WWBB|WBWBBBWB|BWBWBWBW|WWBWWWBB|WWWBWBWW|WBBBWBBB|B WWBBWW|BWBWWWBB,(4,3)],0.9980499
+[  B B B |B B  WB |    W  W|  W  W  |W       | B    BW|     BB |  W WW  ,(0,4)],0.5383581
+[WWWBWWW |B  BBW W|BBWWW  W|W BBW   |WBBW BBB|BWB  WBW|B  WB BB|B  WBW W,(5,7)],0.9964498
+[BWBWWBBW|WBWBWBWW|BWWBB WB|BBBWWWBB|WWBWBBBW|BBBWWWBW|WBWBWBWW|BWWWBBWB,(0,3)],0.0
+[WBWBW   |WBWWWBBW|BWB B  B| W WBB W| WBWB  W| BBBWB W| BWBW  B|W W  BBW,(2,0)],0.99621993
+[        | W   WW |        |      W |        |       B|   B    |  W  BB ,(3,6)],0.106138125
+[WW WWBB |WWW W WB|   B WB | BWW W B| B  B   | B     W|    B B | B W  BB,(6,6)],0.98463994
+[W  BBW W|W WWW WB|BWB BWW | W B BB | B BW WW|BWW WBBW| BW B BB|WWB BB  ,(5,7)],0.9964801
+[   WBB  |   W  W |W       |        |        | BW W   |    B   |B       ,(0,3)],-0.0028257805
+[  W   W |BW  BW  |BWW    B|B W    B|     W  |BB    W | BBBW   | WW  B  ,(3,0)],0.62897
+[BWBW   B| BBW BWW|WBW WBBB|BW W WWB|BW BBWB |BBBWB BW|WB WBBWW| WWW WWB,(6,4)],0.99654996
+[WBWB    | WW B  B| B B  W | B  BBW | W WW W |WB  BW  |WW  WWB |WBBB  BB,(3,4)],0.97227
+[  BBW B |   W W W|B   W   | W    B |B       |B  W WB |        |        ,(0,2)],0.56291866
+[ W BWW W|B   B B |WWWB BBW| WWBWBWW|WWB WWBW|B BW W B|BB W  BW|BBB W BB,(2,2)],0.996535
+[ WBBBWWB|W WBWBBW|BWWBB BW|WWBWBWBW|BWBBBWWB|BBWWWBBB|BWWBBBWW|WWWBWBWW,(3,1)],0.99742985
+[ W B    |B   BB  |   WWW  |B   B   | W     W| WB   W |   W   B| B WB   ,(0,3)],0.5622985
+[BBWWBWBW|BBBWWW B|WBWW BBW|BWBBB WB|   WBBWW|BWBWWW B|BWWB B W|BBWW W W,(2,7)],0.99665004
+[B    BW |     B W|  W     |W   B  B| W W B  | W  W B |      BW|   W BB ,(5,6)],0.08739893
+[WBBBWW  | WWW W B| W BW  W|   BW BW|BWB W WW|WWBBBWBB|BB   BWB|B BBWBW ,(6,7)],0.996195
+[BBW BBBW|BBWB BWB|WBB BW W|W W BW B|BBWWBWWB|B BW BW |WBWWBWWB|WWWB W W,(2,4)],0.99671
+[        |BW  BW  |      B |B WWWB  |    BB B|BB      |  W     | WWW   W,(4,5)],0.93141997
+[BWB BBWW|WBWWWBWB|W WBWWWB|BBWW  B |WB   WWB|BWWBB B |B BBWWWB|BB WWB W,(0,7)],0.99662495
+[B     W |   B B  | W B BW |WBB W  B|  W    W|    WWB |WBWB    |        ,(1,3)],0.24562244
+[WWW WBWB|WWBBBWBB|BBBW BBB|WWWBWBWW| BWWWBBW|BWWBBWWW|BBBWBWBB|B WB  WW,(2,2)],0.996885
+[BB BWWWB|B BWWBWW|WWWBWWWB|WBW  WBB|BBWBBW W|BW  WBBW|W BWBBWW|BWBW BBB,(0,6)],0.996785
+[   B    |W       |        |        |     W  |        |    B   |        ,(6,4)],0.08297501
+[     W  |        |        |       W| W     B|       B|W       |   B    ,(4,1)],0.053575
+[W W   WB|BBB W   |W  W W W|WBW  W B|BBWBWBBB|W WBWBW |WWBB BBW| B  BWB ,(4,6)],0.9958851
+[WBWBWB  |BW WB WW|WWBBB BW|BBWBBWWB|BWBWWWBB|B B BBWB| B WWBWW|WWBWWBWW,(7,1)],0.99653995
+[  B B  W|W       |        |B     W |        |W     WB|  B     |        ,(5,7)],0.12042594
+[BWWBWBWW|BBWBBWBW|WBBWBWBW|BWWWBW B|BBWWWBB |BBW BWBW|WB B WBW|W WWB WB,(0,7)],0.996735
+[WBB WBBB|BB BWBWB|WBW WWW |BWWWBWB |WW BB BW|BBWBWWWB|WWBWBWWB|BW BBWWB,(0,6)],0.99676
+[  W  WB | W      | B     W|   BWWB |  WB    |   WB W |   B  W | B   B  ,(2,7)],0.67217994
+[W     BB|    B W |  WW W B| W    W | B WBW B|W W  B  | B WW   |  BB BBW,(4,3)],0.58817005
+[        |BB   B B|     W B|W    W  | WWW  BB|   WW WB|  WB   W|B   B   ,(7,4)],0.73643
+[WB     W| BWWB WW|B      B|WW B BB |B BW   W|W   B   |W   W BB|  BWWBW ,(5,0)],0.64157605
+[    BW W|BWWB W  |WWB  B B|B  W B W|WB WB WW| BWB WBB|BW WBW  |BB    BW,(4,1)],0.7787378
+[WBBWBWBB|WWW  WBW|WW BBBWB|BBB WW W| BWBBBWB|WBBWBWWW|W BW WWB|WB B BBW,(0,2)],0.9966849
+[       W| BW  W B|     WB | BB W   |B W W   |W B B BW| W  WB B| W  B W ,(5,7)],0.8845625
+[BBWWB   |        |B     W |       B|W       |    BW  |        |       W,(5,4)],0.09875777
+[BWW BWWW|WBBWBBBW|BBWBWBBB|WWWBWBWW|BBBWB WW|BBB WBBW|WW WWBWB|BWWBWWB ,(0,6)],0.9970349
+[WWBBBWBW|WBWWBWBW|BWB WWWB|WBBBWBWW|BBWWWBWW|BWBBBWBB|BWBWBWBB|WW BBWWB,(6,4)],0.998065
+[  W  B  |BW B WW |W  BBW B|WBBWB  W|B BB W  |   WW   |BWB WBW |W      B,(2,7)],0.69180924
+[B WBB   |BBWB  WB| W WWW W|BWW WB B|B W B BB|WW  B WW|B BWBBB |BWBWWW W,(4,4)],0.996555
+[  B B  B| B  WW W|WWB  WB |   B W B|  B W  W|W W    B|W  WBBB |    W B ,(7,6)],0.9931399
+[        | W  B W |B      B|W     W | B  W   | BBWBW W| B  B W |B WW W B,(5,3)],0.9496948
+[BB B B  | W BB WW|W B BW B|  W WWWB|  W WWW |BBW W WB|W   BWB |W BBBW B,(3,5)],0.99635
+[BWWWBBWB|W BWWWBB|W BBBWWB| B  BBBW|BW BWWBB|WBWWBBWW| BW WBBW| BW  W W,(4,7)],0.99628
+[   W BWB|BWW WB  | B W BBB| BBBW   |  W   WW| W  W  B|W BBW   |   WB WB,(0,5)],0.99380505
+[BBWWBWBW|WBWBBWWW|WBW BBWB|WWBBWBBB| B BWB W|WWBWWWBW|BWWWBBWW|BBB BWWB,(5,1)],0.9970951
+[WB  B W |BWWW  BW|  W  BWB| BB  BBW|WB W W W|  BWB WW|BW  BBB |W    B W,(1,2)],0.9949399
+[BBWWWBWW|BWWBWB B|B BWWBWB| WBWBWWW|BWBWBWBW|BBWBWBBB|WWWBWBBW|BWWBBBWW,(6,2)],0.9973849
+[        |        |  W B   |B    B  |       W|W       | W      |        ,(2,2)],0.19994506
+[W B BBB |   W BW |   B  WB|W   B  B|W B    W|WW B WW |B WBWB W|    W   ,(7,4)],0.91225255
+[BBWBWWBB|W WWBWBW|WBBBWWWB|BBWWWBWB|BWB WWBW|BBBWBBBW|WBWWWBW |WBWWBBBW,(0,4)],0.99760497
+[   W    |      W |        |  B     |W   W   |        |B B     | B    W ,(0,3)],0.10657748
+[ BW WBBW|  BWWBBB| WW   WB|WBB BW B|B   WWB | BWBBBW |  W WWBW| WB  BWW,(3,2)],0.96919745
+[B       | B   WWW|W BBBWW |B W W   |        |B B  W B|WB W B  | WBW  B ,(5,2)],0.96308756
+[WWWBWBWW|BBBWW  B|BWBB WWB|BBWBBB W|WWBBWWWB|WBWWWBBW|WWW  BBB|BBBWWWBB,(4,7)],0.9969851
+[B BWW B |W BBB W | W WWBWB|  BWWBWW|BB BWWBW|B  W WBW|WBB WB B|BBWWWBW ,(7,4)],0.99643505
+[WB WB WB|WWBWBWW |BBWBWBBB|WBWBWBWW|BBWBBWWB|BWBWWBBB|BWWBWWWB|WWWBWBBW,(0,6)],0.915812
+[   B    |      WW| W      |  BBB   |        |        |        |W     W ,(2,1)],0.5907551
+[     B B| B   B W|W   W WB|W WBW  B|B W  B B|B WB  B | WB W   |   WW  W,(4,0)],0.8300376
+[B   B  W|W W B BB| WBB   W|  B W   |   WW   |  BBW  W| BBW   B| WWW    ,(3,4)],0.9958997
+[BBBWBWBW|W WWBWBW|BWBBBWBW|BWBWWBWB|BWWBBWBW|W BWBBWW|BWWB WBB|WBWWBWBW,(0,7)],0.99735004
+[BB      |  B  WW |    B   |B       |WW      |        |        | W      ,(0,0)],0.14968169
+[W   BWWW| WWB BB |BW B WW |B  W B B|B W WB  | WWWB  B|   B B B|BW  WB W,(6,3)],0.99639
+[   W  B |   BB  B|B WW W W|B      W|       W|    BWW |WBB   BB|  W     ,(1,4)],0.5516399
+[        |        |        |  W     |B       |        |W       |     B  ,(4,0)],0.121917784
+[W B WW W|B B   B |BBB WB W|B WW B  |W B   W |W WWBBWW|BW WBBBW| B      ,(2,1)],0.98537505
+[ WWBBW B|WBWWBB  |WB  B WB| BBW W W|WW WWBW |WBBB B B|BBBWW B |WB BWWW ,(7,3)],0.9964401
+[W  WW   |WB W B B|BBBWBB W|BW   BW |BBWBW WB|W W  WBW|W   B   |  WWWBBB,(6,0)],0.9438001
+[BWWWBB  |BB WWWBW|BBWB WWB|  BBW BW|WW W WBW|BBB BB  | WBB BWW|    WBWW,(0,0)],0.9959501
+[ B      |W B BB  |  BB  BB| W      |  W  W B|    W  W|W W   W |B    WW ,(4,2)],0.61763084
+[WWW WBBW| WBBW  W|BWBBWBBB|BBW BBBW|WWBWWWBB|BBBWBWWW|WWBWBW B|B WBW BW,(1,2)],0.99660504
+[     B  |B  B W  |WW WB W | B   W  |   W WW |  B BB  |    B  B|  W     ,(3,1)],0.7890718
+[WBWWBWWB|BBWB  W |W  BBWBW| WWWBBBW|BWBBW W |BWBBWBWB|B WWWB  |W BBBWWB,(3,5)],0.9966
+[BWW     |B  WWB  |B WBBB B|  B  W  |BWWB BWW| B BB  B| BW WW  |  WW WW ,(0,0)],0.996045
+[ B      | W      |        |W   WB  |     W B|        |        |W B     ,(4,5)],-0.00420219
+[WWBBB WB| BW WB B|WB    WW|WWBWWB W|W WW   B|BB BBB W|WB  W  B|WBBBWWBW,(2,0)],0.9957101
+[WBBBWWBW|BWWW WBB|BBBWB WB|BWBBBWBB| BWWW WW|WBW WB B|BBBWBBWW|WWBWWWBW,(3,4)],0.99658996
+[ W B    |B B  W  |B       |BB    W |W  BBBWW|WWBBW   |   BWWB |WW   B W,(4,4)],0.6612894
+[        |W    W  |   B   B|  B WB B| WW WBB |W   BB  |  B W   |   WW BW,(2,3)],0.61220753
+[        |B       |        |        | W      |        |        |        ,(1,0)],0.13194649
+[ W W B W| BBB BB |W     B |B W  BB |B   WWW |W   W WW|BWWW B  |B BW   B,(1,5)],0.9955451
+[        |  W     |W       |B       |W   B   | B  B W |        |        ,(5,4)],-0.005451251
+[BBWW BB |WWB WB W| BB B  B|B   WB W|W BW BW |WWBW W  |  WWBBB |WWWB    ,(7,0)],0.99635
+[WBW WBB |BWB  BBB|WB   W  |BWW BWW |BWWBB  W|  W W   |W  BBB B|WWBWWB W,(2,5)],0.99564
+[B     W | BW BW  |  BB B W|  WW  BW|   W BB |BWB   W |W B B   |     W W,(4,6)],0.93508637
+[BWBWBBBW|BWBBWWWB|WBWWWBBW|BWWBWWBB|WBWBBB W|WBBBWBWW|BWWWBBWB|WWBWWWBB,(2,7)],1.0
+[ BWBWB  |W BW W  | B  BB B|W  WBBWB|  B W W |W   W B |WBW BWBW|  WBBW W,(6,0)],0.97047484
+[WWBBW BW| BBBWBBB|WBWB WW |  BWB WB| WWBBW B|WW W  WW|BBWB WW |BWW   BB,(5,7)],0.99647504
+[WBBWWBBW|BWBBBWBB|BBWWWBWW|WWB WBBB|BBWWBBWW|WBBWBWWB|WBWWBBBW|WWWBWWWB,(4,3)],0.0
+[WBWBBW W|B WB WWB|BB BWBWB| WB W   |WBWWB  B|WW BWBWB| W BWW B|WBWB B W,(5,6)],0.9962951
+[BWBBWWBW|B B  WB |WBWBW BW| WWBWW  | BB BWBB|WW BW BW| W W BWB|WWBBWBWB,(0,7)],0.99642
+[BB WW  W| B W  W |   B W W|B  B    |W       |  B   B |W  WBW W|   BB B ,(7,3)],0.69442934
+[    W W |W  B B  |     B  |   B    |        |B    W B|   W    | W W  B ,(1,3)],0.17308252
+[WWBWBWBW|WBBBWWWB|BWWBBBWW|WBBBWWWB|BB WBWBW|WWB BWWW|WBBBWBBB|WWBBWBWB,(7,5)],0.0
+[ B W  B |BB   W  | W W   B|W WBW  W|WWB BBBW| W W   B| B WW BB|   WBB  ,(0,6)],0.9942751
+[BBW B WW|BB WB  B|WW WBWB |B  B    |BW B BW |W   W WW|W     BB|BW WW  B,(1,0)],0.99369013
+[  BBB W |WB   WWB| W B    |  WBWW  |W     WB|B   B BW|W BW   B|WB  W WB,(3,5)],0.98987997
+[WWBBW BW|BBW WW W|WB BBB B|BWW WW B|WBBWBBBW|B WBWWW | B  WB W|WBW B WB,(5,4)],0.99631006
+[  WW    |       B|W   B B |BWB BWW |BW    W |    BB  |    W   |    W B ,(1,7)],0.096602514
+[B WBWB  |W W  BWW|B WW  W |BBB   WW|W  B  BB|  B B BW| W BB W |  WWBBW ,(3,2)],0.7888624
+[BBWWBWBB|W WBWWW |WBWWBB W|W BWB BB|BWW W WW|WWB BBWW|BBBWBW B|BBWBBWBW,(3,3)],0.9967551
+[    WW  |   W    | W  B   |B    B  |  W     |        | WB  B  |        ,(1,3)],0.11317249
+[     WWB|W  WWBWB|BW BW BW|WBBB WW |B WBBB B|BW  W B |W  B WB |WW  BWBW,(4,2)],0.99151486
+[W    B  |    WB  | W  BB B|  BB  W | B  B  B| W      | WW     |W W W   ,(2,4)],-0.024562499
+[  B     | WB     |        |    BB  |        |   W  WB|  BW  W |   WWB  ,(7,5)],0.4876863
+[ WW  WW |B B  WBB|BW      |  W   B |  B BWBW| B   W W|   WB   | B  WWB ,(4,7)],0.77476466
+[ WWB   B| W B    |B       |WWWB    | B B    |    BBW |W   W B | WWB    ,(4,3)],0.6251587
+[WW   B  |       B|W      B|W  B  BB| BW  B  |   W    |WW      | B W W  ,(0,0)],0.9371249
+[B BW WWB|BBWWWBBB|WBW WBWB|BWW    W|BW B   W|B WWW W |WBBWB B |WBWBBBWB,(6,4)],0.9957701
+[B B W   | W WW WB|  B B B | BB W W |BBWBW BW|WBBW WWB|WWB B  B| W WBBWW,(5,2)],0.99639493
+[BBWWBWWB|WBWBWWWB|   B  BW|WWW B WW| BB BW B| BW  B B|BWBBWW W|WBBWBBWW,(0,6)],0.99657
+[WB   WB | W B   B| BB BBWB|BBWBBWWW| BWW  WW|W WW    |WB   BW |BWB  W  ,(4,2)],0.99636
+[ WBW WW |W  BBB  |BWB  WWB|BB   W W|WBBWBWB |WBW   WW|     BBW| B WB  B,(4,1)],0.996235
+[BBW   WB|B BBW WW|WBBWBWWW|BWWBBWBW|B B  W B|BWWBWBW |W BWWBWB|BWBWB WB,(1,3)],0.99661005
+[WWWB  W |     W W|  WB WW |BBWW  BB|W  BB  B|        |  BWBW  | B   B  ,(0,1)],0.665683
+[BBB WWB |WWBWWBBW|BWBWB WB|W   WWBW|WWBW WBW|WBBWW BW|B WBWBWB|B B WBBB,(0,4)],0.99648
+[WB B  B |        |        | B   W  |  W     |  B     |  WW B  |     W  ,(0,1)],0.18014035
+[      W | B  B   |     W  | B W    |      W |B       |        |        ,(1,1)],0.106555
+[     W  |        |B       |  W     |     W W| B  B   |        |        ,(4,7)],0.03330531
+[WBWBWB W|BWWBBWBB|WWW WBWW| BBBWBWB|BWWWBWBW|BWBBBWW |BWWBWBWB|WBBBW BW,(1,2)],0.99705493
+[B WW BWW| BB  BBW|W BWWBBB|B   WW  | WWBBBWB|W W B   |  W    W|W B B W ,(4,1)],0.99511003
+[ WBWWBWW| WBB WWB|WWW WWWB| BWBB B |BBWB WBW|WW WBWWB|BBB BWBB|  WWBBB ,(5,5)],0.99661505
+[WBB WWB |BWWBWBWB|WWBWWBBB| BB BWB |WW WBWBW|W WBBW  |BWWB BWB|BBWBW WW,(6,2)],0.99657
+[WWBBB WB|W WWWB B|WBWBBWW |BBBWBBWW| WWBBWWB|WBWWW B |W BBBWWW|WWBBB BB,(6,0)],0.99675
+[        |WB     B|  WB W  |  W     |BWB   BW|W  BBW  | WWB B  |  W     ,(5,5)],0.320885
+[ BWBW   |W BB W  |BBB  WBW|WW  B   | B B    |W  B W W|WWBWB  W|WB    WB,(6,1)],0.8521177
+[     W  |        |        |        |        |      B |        |        ,(5,6)],0.04328249
+[B  W   B|B   BWB |W  BW  W| WWBW   |WB  B  W| WB B B |WBWBB  B|WW BWW  ,(6,4)],0.8331587
+[       W|B      B|        |W B W B |B  W B  |    W   |WBW     |    W   ,(6,0)],-0.0046062497
+[W    B  |       W|BW     B|W   BW B|    W   |B     W |  B W B |  W   B ,(6,2)],0.38988498
+[   BBW  |   WWW  |   WB  W|   BB   |WB    BW|B B WB B|   W   B|BW W W  ,(5,2)],0.8139676
+[        |     B  |        |        |        |        |  W     |        ,(1,5)],0.06484
+[  B W BB|WW W WWW|BB      | B  BBW |B W  WBB| B  WW  |WB   W B|WBWWBB  ,(2,1)],0.9162925
+[W     B |W W WB B|    W W |B W  B  | W  B   |     W W|  B     |BW   B B,(1,0)],0.62494475
+[WBB  WW | W W  WW| BW BWB |BB  WBWB|BBB WBWB|BW WB BW|WB  BWW |B  BWWBW,(4,7)],0.99622995
+[WBB WWBB|BBWBWWW |WWBB BBW|WBWWBWBW|WWBWBWBB|BBWBB WW|BB BWWBW|WWBWWBBW,(5,7)],0.99698496
+[B W WW W|WBWBBBWW|BW BBB B|BBWW W W|WBB BWWW|BWBWBWBB|WBWWBBBW|BBWB W W,(6,6)],0.9967251
+[W WWBWWW|WWWBBWBB|BW W BW |BWW  BWB|W BBW BB| B WBWB | B WW B |WBWBB  B,(3,2)],0.99607503
+[BBWWWBBB|BWWBBBWB|WB WBW W|B WW WBB|  WWBBWW|WWBBWB B| WBWB  B|BWWWBWWB,(1,3)],0.9965051
+[BWBWBBWB|BBW BWWW|BBWBBWWB|WBWWW BW|BW B  WW|WBBWWBBB|WWWBWWWB|WBBBWWBB,(1,6)],-0.19909997
+[B  B    |WWB     |B W    B|WW      |B      W|W  B   W|B      B|W  B   W,(6,0)],0.2037225
+[WBWW WBB|WWBWW WW|BBB B W |BBW WBBB|BWBWWBW |WW WBWBB|BB WWWBB| BBBWBWW,(7,3)],0.9967551
+[    WW  |WB WW WW|   W    |   BBWB |WBBB  BW| W  B  B|W B    W|BBWB B W,(3,5)],0.81513995
+[BBWBWW  |WBB BB  |WW WWWBW|WWWBWBWW|BWW WW W|BB BB BB| BWB BBB|B B WWBW,(6,5)],0.9965399
+[        |  WW    |B   B   |       B| B B   W|  W W  W|B       |        ,(4,3)],0.223105
+[        |       B|   WWBW |       B|        |        |B BW  W | W      ,(6,3)],0.10226625
+[ BWB W  |BBW   BW|WW      |  B  B  | WWB  B |WBBWWW  |  WW  B | B  WBB ,(6,6)],0.8740122
+[    W W |WWWB WBB|WBWW B W|W     W |B   BB W|BB BBWWB|WBWW  WB|WBWBB BB,(3,0)],0.9879549
+[W W  W W|B W     |BB      |W    W B|     WW | B  B   |   BB  B|        ,(5,4)],0.26368433
+[ B WWBB |B B WBWB|  W W  W|  WWBWBB|BW W BW |  W WW  | W BB BW| BB BBW ,(7,4)],0.993395
+[B BW WWW|B W BW B|B B  WWW|WWBB  BB|W B WW B|BB    WB|  BBBWWW|BBWW WWB,(3,7)],0.9963401
+[ BW B BB|W   B W |BWWWB WW|W BBW B | WB  WBW|   BBW B|W   W B |WBW  B  ,(2,0)],0.9570087
+[WWWBWBWB|BBWWBWBW|W BWWWBB|BWWBBBWB| BWBWBBB|WWWBBWBW|BWBWBWWW|WBWBBWBB,(4,7)],0.0
+[   WW   |B      B|W     B |  WW    | W  B W |WB B  BW|BW W  B |B B  WB ,(2,6)],0.6634662
+[      B |W    W  | B      |       W|      B |        |        |        ,(4,6)],0.08224127
+[BWBW  W | W   B  | BWB BWB|WB WB BW| W W   B|W B     |WBW  W  |   W B B,(4,3)],0.6799912
+[WB W BBW|B BW B  | WBW BWB|B   W WW|  B    W|W BBB WW|BWB  B  |B    WWW,(2,5)],0.99608004
+[       W|W B     |      W |W     B | W   W  |B  B  W |  BB   W|B  WBB  ,(3,6)],0.60953
+[WWWBBBWB|WB WBWWW|WBBWWBBB|BBWBWBWW|WWBBWWWB|BWWWBBBW|WBWBBWBB|BBWBBWWW,(0,2)],1.0
+[B WWBBWB|WBWW BB | W B  WB|  BBW BW|BB WWWBW|WB   B B|W WWWBBW|WBWB  BW,(1,1)],0.996215
+[        |    B  W|  BB    |  W     |   WB   | B    B |W      W|   W    ,(2,2)],0.12595409
+[        |  B     |        |        |        |  W     |        |        ,(1,2)],0.09868027
+[B WWB WB| BWBWW W| BW BBW |BBB  WWW|W WBBWWB|  BW BBB|WW B B  | BWWWBWB,(5,6)],0.99638
+[BWBW W  |  WWBW  |BBB B  W|BB WW B |W BWB  B|W B WW B|B BWWB W|B  WW   ,(2,4)],0.996315
+[W  BW  W|BBW   W |  BWWWBB| BWWBBB |  B WW  |  BWW WW|B   W B |B BB  W ,(5,4)],0.99568
+[BBWBWWBW|BWBWBWWB|WWBW BWB|BWWBWWWB|BB BB BW|WW WBWWB|BBBWWBW |WBBWBWWB,(3,5)],0.997025
+[        |        |        |   B W  | W  W   |B B     |        |        ,(5,2)],0.18363994
+[ B   B  |BWWB   W|BWW   W |    W B |B W WBB |B BW    | WBW B  |  WW  B ,(0,1)],0.8623349
+[        |    B   |        |  B     |       B| W W    | W    WW|B       ,(5,1)],0.09858282
+[        |W       |        |        | B      |        |        |        ,(4,1)],0.021358129
+[WB WB WB|B BW BBB|WWWBWBBW|W      W|    BB  |WW  BW  |B  W B  |W BW    ,(5,4)],0.790115
+[ BB BWWB|WWBWB   | WW WB B| WW   BB|B WBBBWW|WBBBW WW|  BWW BW|BW   WBB,(4,5)],0.996415
+[WBBW B  |BBB B  W| W W  B |    WW  |W BW   B| WW     |   W  B |  B  B W,(1,2)],0.7285008
+[BWBBWBWW| WBBWBWB|B BW WW |BWWW WBW| BWBBWWB|BBBW BWW| BW B BW|W BB   W,(1,2)],0.99651015
+[WBB  WBB| WBWWB B|W W  W B|WBW W BW| WBW WBW| BB WW B|  WBBBWB|WWBBW BB,(6,7)],0.986915
+[ W    W |   W  W | B   W  |  WB  BW|  W WB  | BW B   |BB      |  BWB   ,(3,2)],0.88995
+[ BBBWBBB|WBWBBWWW|BWBWWW B|BWWBBB W|WBWBWBBW|W WBBWW |WWBWB WW|B WWWBBB,(3,1)],0.996805
+[BWBWBWWW|WWBWWBWB|WWBBBWWB|BBWW BBB|WBWBWBWW|BBWWWBBB|BWBWBWBW|BWBBBWWW,(7,1)],1.0
+[        |     B  |        |W     B |    B  W|     W  |        |        ,(3,6)],0.019175004
+[ WWB  W |BWBWB WW|W BB   B|BB WB W |B BBW   | B WW BW|WBBBW W |WBWWBWWB,(1,3)],0.99483997
+[   WB   |BWWBW   |B      W| W   B B|W  W B  |      WB|W  B B  |W       ,(3,1)],0.62505174
+[BW    W |    B   | BB     |        |W      W|        |        | W   BW ,(7,1)],0.20009884
+[BWBWWBBW|WBWBWBBB|WWBWWBWW|BWB  WBB|WBWBWBWW|BWB BWWB|BBBWW  B|WWWBBWWB,(0,3)],0.9971002
+[B       |B   W BW|  W B  B| B    W | W W W  |   WW  B|B    WB |W   WB B,(6,5)],-0.024969999
+[W B     |   B    | B BB  W|  BW  WB|     WW |        |B  WB W |W  W    ,(0,0)],0.852787
+[ WBB BWW|   W   W|B BWWWB | WBB B W|W  WBBW |BWB W   |B WBBB  |WW  W BB,(4,5)],0.996245
+[BB  BW  |  B B B |WBBWW   |  WW BW | WWB WB |      B | B W  W |W  BWB W,(7,3)],0.81846505
+[   W  WW|  WW    |WWBBW   |B  B    | WB WB  |    BBB | W W W B|B  WBBB ,(5,5)],-0.023382498
+[BW W  WW|BW BW  W|   B B  |WW W  WW|B     B |WB BB   |W BB WB | B      ,(1,4)],0.98004353
+[BBB BBWW|BWBWWWBW|BBBWWBWB|WWWBBWWW|BBWWBBBW|WWBWBWWB|BWWW WWB|BWBBBWBB,(0,2)],0.99801505
+[B   BB  |WW W   B|B  BB  W|WW W B  | BBW  B |B     W |BWBW   W|  W W W ,(7,6)],0.93072253
+[W WBW  B|WB     W|W  B   W| B WWW B|BWBB B W| BWWB   | B  BWB |  B  WW ,(7,6)],0.918225
+[BBWB B B| B  B WW|   WW  W| B  WBW | W B  W | W WBBB |    W B |B    WWW,(4,1)],0.9315249
+[     B  |  W  WW | B   W W| B    B |    WBWW|    BBB |        |      BW,(2,1)],-0.017512498
+[B WW   B|W  BW B |  WB BB |B W     | W  W W |W B  WW | BBW   W|BWBB    ,(3,2)],0.98911494
+[        |W  W B  |   W  B | B  BB  | W BW W |B  W    |B      W|      W ,(4,4)],0.29807687
+[BWBWWW W|BWW BWBW|W BWWWBW|B  W BWB| W BBB B|BW WWBWB|BBBWW WW|BWBBB BB,(5,7)],0.9966949
+[WWWBBBWW|BW   W W| BWBBB W|WBW W  B|BBWB BB |BWB BWBW| WW BW W| BBWWWBB,(2,3)],0.99648
+[B W W B |      WW|WB  BB W|BW  WWW |BWBB B W|WB BWBWB|  W WB B|W  W  BB,(6,4)],0.99517506
+[W B   B |  B W WW|  B W   | B WB W | W   WW |  B W   |   BB W |   BB   ,(4,5)],0.59966695
+[W W  BB |       B| W  W B | B  BB  |W W    W|   W BWB|BB    W |    BW W,(5,7)],0.770115
+[W BBBWBB|BW WBWWW|BBBWBWBB|WBWBWBWW|WBBBWBWB|BWWWBWWB|WB WBWBW|BWWBWWBW,(3,6)],0.9725974
+[BW WBW  |WBBB    |W    B  | W  B  B|WBB W  B|W WW W  |B B B   |  W  BWW,(0,4)],0.9397124
+[ W   B W|      B |BBBW W  |   BW W |        |BB   W  |    W  W|BW   B  ,(5,1)],0.46861082
+[WB W B  |     W W|     W B|WB     W|B   B   | W   BW |W W     |B    B B,(1,7)],0.48795396
+[BW BWBWW|BWBBBW W|B  BWBBW|WW  WWWB|BBBWBWWW|BWWBBB B|WBWWBBWB|BWWBWWBW,(1,5)],0.99687016
+[        |WBBB    |BBW WB W| B     W|  B   B |  W WWB |   W   B|WW W    ,(6,3)],0.95747983
+[BWBBB B |BB WW W |WWW W B |  BB  W | WB  B B|BWB    W|WBW B  W|W WWBB W,(3,3)],0.99532
+[WWBBWWBB|WBBB WWB|BW WWWBB|BBW W WW|WBBBWB B|WBWWBBBW|B   WWWB| WWWBBWB,(3,7)],0.9967251
+[        |        |        |    W   |   B    |        |        |     W  ,(7,5)],0.05806596
+[BWBBWWWB|BWWBWBBB|BBWWBWWB|WWBBBWWW|B W WWWB|WWBBWB B|WBBBWWBB|WWWBBWBW,(4,2)],0.99761516
+[W BBB B |WB WB   |  W  W  |  W  W  |B   W  W|BW  B BB|BWW   W | WB  B  ,(7,2)],0.8978389
+[ BWBWWBW| BBWBBBW|W   WBWB|BBW BBWW|     WBB|BWW  BBW|WBBWWBWW| B  WWWB,(1,5)],0.99610007
+[BWWWBWWW|BWBBB WB|BBBWWWBB|WWWBBWWW|WBWBWBBW|BWWBBBWW|BWBWW BB|BBWBB WW,(2,4)],0.997375
+[B WBBB B|B   BW  |B WW W  | B WW B |B    BWB|W  W W B|WW  B   | WWWB WB,(2,0)],0.9854
+[BWBWBBWW|WWBWBBWW|WBBBWW B|BWWBBBWW|BB WB BW|WBWWBWBW|BBWBWWWB|BWBWBWWB,(1,3)],0.99751997
+[        |  W W   |B    W  |    W  W|        |W      B|BWB W   |  BBB   ,(6,4)],0.818365
+[       W|BWBW  BW|WWB     |     BBB| B WW  B|   W WW |B  WB   |W  B    ,(7,0)],0.70715505
+[        | W  B  W|     B  |        |W       |        |        |        ,(1,1)],0.16916502
+[        |        |        |        |        |     B  |    W   |        ,(5,5)],0.070879996
+[ BB   W | B BB  W|      W |    WB  | W B  B |W      W| W   WB |     W B,(1,4)],-0.01403
+[W  BW WB| BW WWBB|BW B WW |W BB    |WBWW WWW| W  B   | BBB BB |WB BWBW ,(4,2)],0.9963249
+[WWB WW  |BBWBB BB|W BBWBW | B BW WB|W WWWBWB|B BBBW W|WWW WWBB|W W B BB,(3,1)],0.996565
+[  BB  BW|B WW    |W BW B  |WWBW BWB|B B  W  |WWW BB  |   W  W |    BB  ,(0,6)],0.7891743
+[B   BWWW|BWW WBBB|WWB BBB |WB  WWBW| W WBBW |BWB BW W|W W    W|BB B BBW,(4,4)],0.996455
+[W W     |        |    W   |        |        |        |       B|     B  ,(2,4)],-0.002881562
+[WW BBBWW|BWW B B |WBWBWBWW| WWBBW W| B W BBB|WWWBBB W|WBWW BBB|WBB WW B,(0,6)],0.996565
+[  B   W |        |B WWBW  |     BWB|     B  | B  WB  |BW  WW B|W      W,(6,4)],0.5888912
+[WBWB  W |W  WB   |      BB|BB    W | W B BW |  WBBW  |W WB    |W W   B ,(1,0)],0.84327984
+[  W   W | B W    | B  BW B|  B  W  |    W   | W      |BBB B  W|W  BW W ,(7,6)],0.47432947
+[   W    |        |        |B       |        |        |     W  |  B     ,(3,0)],0.099613115
+[WW   BW | B BW  W| B B    |  BBB WW|     BWW|WBW    W| B WW B | B WB   ,(5,0)],0.9949301
+[BBBWWWBW|WBW BBBW|BWBWWWBB|BWBW WWB|WWW BBWW|BB W BWB|WWBBB BB|WWB   W ,(2,0)],0.9967249
+[   W WBW|B WBWBB |B WW   B|   BBW W| WWBWB  | W  W WW| WBBB  W|  BW BBB,(2,3)],0.9960451
+[ B WW BB|       W|    W  B|BW WB  B| W W  W |B  W    |WB     W|   B B  ,(5,3)],-0.017529998
+[WBWB BW |B WBW WB|BBWWBWBW|   WB BW| WBWBBWB|WBBBW W | WBB BBW|W W B WW,(5,1)],0.98295844
+[WBWWBW B|WBWWBBBW|BB  WBWB|  WWWBBW| BWW WBW|BBB BWBB|BBWWWBWB|WWWBWW B,(1,0)],0.9966901
+[W   WW W|B BW WBW|WW WBWWB|WBBB B B|WW    WW|BBB  BBW|BBB W  B|  WBWWBB,(6,0)],0.996325
+[       W|    W   |     W  |    W   |       B| W      |W  BB B |    BB  ,(6,6)],0.5705418
+[WBW BW W| BB  WBW|WW W  BW| BBB    |WB      | BWBBB  |W  W BBW|WW  BBW ,(2,6)],0.9962999
+[BWBB W  | WB  WW | B   WW | W      |  WW  W |BB  WBB |B W  WBW|B BWBB B,(7,2)],0.99376
+[WWBW   W| W     B|      W | BWB BWB|  B    B|  W BWB | B      |W W B   ,(1,7)],-0.017637875
+[ BWW  WW|BWBWBWBB|WBW  WBB|B  WWB W|BWBW  W |WW WWBW |BWWBB BB|B BWBBWB,(0,7)],0.9964801
+[WWBBWWBW|BBWWBWBB|BBBWBWWB|WB BB BB|WWWBWBWW|BWBBWWBW|WWBWBWWW|BBWWBBWB,(5,3)],0.9980451
+[WWB    B|WW  WW  | WWWBBBW|   BBW  | B B   B|   B  BB|WWW B  B|WW  BBWW,(7,6)],0.98983496
+[BBWBWWBB|WBWWBBWW|WWBWWWBB|B  WWBBW|WBWB  WW|B WWWBBW|WBBWWBBB|BWBBWBBW,(6,3)],0.9968499
+[        |B   BB  | W  B   |  W     |  W     |      W |  W  B  |        ,(6,5)],0.39804578
+[ BBWBWBB|WBW WBWW|WWWBBWWB|BBBWBWBW|  WW  BW|WWBBBWBB|BWBBBWWW|WWBBWBWB,(3,2)],0.99706
+[WWB WWWB|BBBWWBWW| WWBWBBB|WBBWBBWB|BWWWBWBW|WBBWWBWB|WWWB  WB|BBWBBWBB,(2,3)],0.9972499
+[W  BW WW|  WW  BW|   BWB B|  B   B | W B   W|     W W| BBB  B | BB W  W,(0,3)],0.9148361
+[W WB B B|W   WW B|BB BBB  |WWB WWBW|   WW WB|WWBBWWB |BWB    W|WB WWBBB,(1,4)],0.9963549
+[BWW WBW |BBBW WWB|BW BBW W|    BBBW|W WBBW B|W BBW  W|BWWWB B |WB WBWWB,(4,0)],0.99651
+[BWWBBWWW|BBBWW B |B BBWB B|W  WBB  | W W  WW|W  B WWB|BWWWBWB |WWBWBB B,(6,1)],0.9964749
+[WBW   W | W    WW|BBBW WBW|B B BWBB|WWB BWWB| BWWBBB |WWBB WWB| WWBB WB,(7,7)],0.8508236
+[  W     |B     B |        |W       |        |B  W  B |   W    |W       ,(3,0)],-0.0036923434
+[ W WBBWB|BW WB  B|B    W  |   BW   |W  B   W| B W  B | B W W  |      BW,(4,3)],0.22515623
+[ WWW  BB|W   BWW |  BWW   |B B B   |W WWW  B| B B    |  BW    |       B,(2,4)],-0.02558
+[  BBB  B| W    W |BBB BW W|WWB    B| BB  W W|W W W   | W  BWBB|     W W,(0,7)],0.9441576
+[   W  W |W    W W|W  B BB |       B|  BW  BB|B   WWW |WB  W   | B BB   ,(7,1)],0.88301814
+[WW WBWBW|WB BWWBW|BWWBBB W|B B WBW |BWW BW B|WBBW BBW|BWBWWWBB|BBBWWB W,(4,0)],0.99647504
+[BBWWBWBW|WBWBW WW|BBWWWBWB|BWBWBBBW| WWWBBWB| BBBWWBB|BBWWBWWW|BWWWBWBB,(3,7)],0.99766004
+[ WBWB   |W W WBBB|BB  WBWB|BWBBWW  | BWBB B |WBBWWW B|WW WB  W|B W BWW ,(2,5)],0.9937749
+[ B  WWB | B B    |     WB | WB   B |W    W B|B  W    |W BB W W|BW W    ,(3,6)],0.16735129
+[ B   W  |  BWW B |BB   W W|W W   B |BW BW  W| B  B  W|BB  WWWB|    B WB,(7,4)],0.76344573
+[W  BWWBB| BBWW WB|W WBBW  |  WW BB |B   B W |WB WB B |WB  W   |B W W   ,(2,5)],0.96445245
+[   WBWW |B WBBB B| BBB BW |WWWBWBBW|BWBWWW  |WBBWBB  |WW  BBWW|BBWWBWWW,(3,2)],0.99597514
+[  B BW  |W   W B |      W |B  BB  W|B W     | W W  W |  W   B |B       ,(2,6)],0.20309094
+[WBWBW   |   BW   |B   B  W|W  W BBB|WWBWB   | B    WW|    W B | B   W B,(4,2)],-0.019052502
+[      WB| W      |       W|    W   |   BB   |B    B  | WB W  W|        ,(6,1)],0.25066996
+[ BBWBB  |BW  B W |WBB     |B WWBB W|WWW B WB|WBB B W |WWW   BW| WBB   W,(4,7)],0.99563015
+[  B  WWW|WB BBWW |WWBW    |BWBBWB  |BWBW  BB|W     WB|B BBWWW |WWWB B B,(4,1)],0.99643517
+[WBBWB WB|   BWB  |   WWBWW| B W   B|B  B B  |  BW   B|  WWBW W| W  WWB ,(0,6)],0.93478507
+[BBWW  WW|B  B BWB| WBW BBW|  W WW W| BWW W  |   W B B|WB   BB |B W B BW,(5,3)],-0.039915618
+[B BWWWBB|  WBB WB|WWBWWBWW|BWBWBWBB|BB WWWB |B WB WWW| WWBBB B|BWBWBWBW,(3,4)],0.996665
+[BWBBBWWB|BBWBWBWW|W WW BWW|W BB WB |BBW BBWW|BW BWWBB|WBWWWBBW|  WBWB B,(4,4)],0.97805005
+[  B  W B|B  W W B|   B  WB| WBW BB |W B  WW | W   W  |BW B W  |  B     ,(2,7)],0.8386239
+[W       |      W |      B |   B BWW|  B B   |W    WW |W B    B| BB  W  ,(3,3)],-0.019075
+[BBWBBWBW|BWWWBBB |WWBBWBWW|BBWWBBWW|WWB BWWB|WBWWBBBW|WBWBWBWW| BBW BBW,(3,0)],0.99729
+[   B    | W    B | B  W  W|    W   |        |    B   |B       |   W    ,(0,3)],0.16200627
+[    B BB|B  B  B |  WB B  | WWW  W |B W W  W|    W   |BWWB    | B    W ,(2,5)],0.9595825
+[WW B B B| BW B B |WB WW BW| B     B| W  BW W|     BBW| W BB B | WWW   W,(1,4)],0.9947051
+[     W  |        |   W  B |       B|B      B| WB     |      WW|    W  B,(4,7)],0.09038124
+[WWW B  B|W  WWW B|B     BB| WBWB  W|BW  B   |     BWW| WB     |BWBW WBB,(7,5)],0.995825
+[B BW W W|     BWW| W  W W |BWB   W | W  BBB |BB B WWW|B  B WBB|    BWBW,(6,3)],0.96988523
+[B BBBWWW|B W BBW |BW W WBW|W WWB  W|B  W BWB| B     B|  BBWW B|  W BWW ,(2,5)],0.99621487
+[BB  WBWB|W W WWW |W   WB W|   B  B |B     BW|B  BWBWW| W  BBB |  B   W ,(5,5)],0.996195
+[WW  B BB|W      W| B      |W   B   |B  B    |BW    BW|WW    WB|WB      ,(6,7)],0.6179496
+[WWBBWWBW|BWBWBWWW|BWBBWWB |BBWBBBWB|WWBWBWBW|WBWWBWBB|WWWBWBBB|BBBW WWB,(4,6)],0.9981
+[WBBBW WW|BWW BBBW|WWWBBW W|WBWBBB B| B BWWBB|BWBWWBW |WWBWWBBB|WBBW WBW,(2,4)],0.996805
+[ BB    W|  WB W B|B B W W |BW BB  W| W WW BW|WWWBW  B| BB B  W|BWB WWBB,(0,2)],0.98284996
+[WW  B WB|BB  BWB |BWWBWW B|WBW BW  |  W WBW |BBB BWW |BBWWWB  |WBWBBWWB,(6,1)],0.99654496
+[BB B B B|BB     W|W    WW |WWW BB B| WBB    |BBB   BW| WW  WWW|WBBWW  W,(4,2)],0.99437743
+[    W B |B    B W|  BWW   |B B W   |W B  B B| WW  W  | W  WBW |B  B    ,(7,3)],0.8063861
+[        | B    B |        |        | W     B|   W    |W       |        ,(1,1)],0.11719751
+[ BB WW B| BWWWBBW|B WWWB W|BB B B W| B WB  B|B W WBW |B B WB W|W WWBW W,(7,3)],0.9961802
+[BBWBB  W| WBWBBWB|BBWB   B| BBBWWWB|W WW   W|WBBWW BB|WWWBBWWW|BBWWBW W,(6,2)],0.9965951
+[B       |    W   |  W  W  |B BW  W |  BW  B |B       |      B |BW  W   ,(4,2)],0.5843774
+[BBWBBWBW|WWBBBWBW|BBWWBWWB|WWBBWBBW|BWWBW WB|BWBWWBWB|BBBWBBWW|WBWW WBW,(4,7)],0.99828994
+[BBW WWBB|WBWBWWBW|WWWBBBWB|BWBWW WB|BWWWBWBB|B BBWW W|WBWBB WW|B WWBBB ,(5,7)],0.99682987
+[B WBWWBB|B W W  B|WB W BBB|WB  BWW |BWWBB WW|B WW WB |BWB  WWW|W BBBWWB,(0,2)],0.99629
+[        |        |     B  |      WW|        |        |        | W   B  ,(3,7)],0.045867503
+[ BB   B |W  BBBWB|W W    B|B W W W |WB    WW|   W W B|WW BW W | BB  BBW,(3,4)],0.9573947
+[W   WBB |BB WB   |W      W|B   W   |    B W |WB   W  | W  BWB |W    B  ,(1,3)],0.14093062
+[ BWBWBBB|BWWWBWBW|BWW BBWB|WBBWWBWB|WWWBBWWW|BBWWWBBB|BB BW WW|WBWBWBWB,(5,0)],0.99744004
+[BB  B  W|  BBWW  | WB  WBB|  WWB WB|B W   W |WBWWB B | W  B W |WB W  B ,(5,6)],0.99509
+[BWWBBWBB|BWWWBWWB|WWBBWWBW|WBWBBB B|BWBBWBWB|WWBWWBWW|WWBBBWBW|WBWBWBBW,(6,7)],1.0
+[WBWBBWWB|BWWBWBBW|WWB WBWW|BWWBWBBB|BBBWBWWW| WBWBWBW|BBBWWBWW|BWWBWBBB,(4,2)],0.997985
+[  B BWBW|  B B  W| B   B  | W  B WW|    WW B| WW   BW|W B     |  B   W ,(5,1)],0.721937
+[        |  B     |       W|      B |  B     |      W |        | W      ,(1,2)],-0.0016026564
+[WB  WBWW|B W W BB|BBW BB B| W WW W | W   W B|BB     W|   B W B| B     W,(0,1)],0.974475
+[   W    |WW  B BB|W  B BW |     B W|   B  B |  W   WW|   B  BW|  W   WB,(1,1)],0.7318266
+[        |        |    B   |        | W      |        |        | W      ,(4,1)],0.057564378
+[ B  WBB | BBW    | W  W  B|BW B   W|BW WW  B|WBW W   |BWWBWBBW|B  W W B,(1,3)],0.74403596
+[WBBWWBBB|BWWWBWBW|WBBWBBBW|WBWBW  W|WBBWWBBB|BWWBBWWW|WBWWWBBB|WWBBBWWB,(6,5)],0.0
+[WWBWWBWW|BB WBB W|WBWB BBW|W WBBWWB|BWB WWBW|WBWBBW B|WWBB BBW|WBBWBWBW,(3,0)],0.99692
+[B BB    |B   W B |    W   | B B    |  WW   W|        | W W  W |        ,(1,4)],0.62352073
+[        |        |        |  W   B |        |      W |       B|        ,(3,6)],0.13948558
+[  BW  W |      W | B B W  |       B|     WB | W  W W |     B  |      B ,(2,5)],0.029092502
+[        |        |  W     |        |B      W|        |      B |        ,(4,0)],0.11753871
+[ W WBBWB|WBBBWBWW|B WWWB B| WBWB WB|WBWBBB W|WBWWWBW |  BWBW W|WBBWBBBW,(4,7)],0.9966499
+[B BWWBBB| W B WWW|BBBWWBBB|B B WBWW| W WW BW|BWBWBBWB|WW WWBWB|W WBWBB ,(2,5)],0.99665004
+[        |B       |     W  | WW     | B      |W   B   |W   B   |W     B ,(5,0)],0.04809188
+[       W|    BW  | WW    W|W BB  W | BB  B  |BW   B  |W   W B | B   W  ,(1,5)],0.5374375
+[   W W  |W  BBB  |    WB  |      B |    W   |       W|        |  B     ,(1,3)],-0.013807501
+[BBWWBWWB|BBB BB W|WBWW WWW|BWWW WWW|B BBBWWB|B W BB B|WWBBWBW |WWB  BWB,(4,5)],0.99662006
+[     B  | B      |       W|        |        |        |        | W      ,(0,5)],0.057444375
+[ W  W   |W   B   |   B W  |        |        | B  B   |      B |    W  W,(7,4)],0.19351374
+[BBBWW WB|BW BWW B| BWWBBBW|BWW WWBB|  B  WWW| B  WB W|W W B BB| W BWB W,(7,4)],0.99637496
+[     W W|WW WBB B|BB    W |W WB  WB|   BB WB|BBBW W  |WW W BBW|WWB  BBW,(6,7)],0.9826061
+[ BBWWBW |BWWBBB B|BWWWBWB |BW WWWBW| BWBB WB|WWBWW  B|BWBWBWBB|W BW WBW,(3,4)],0.99643993
+[BBB  WWW|WB  B WB|BBBWWBWB|W WW WBW|WWWB W W|BBBWBBWB|WWBBBWWW|BWWBB BB,(5,1)],0.99672
+[BWWBWWBB|BW BWBWB|BBBWBB W|WW WB BW|BBBWBBWB|WWW  BWB|WBWBWW B|WBWWBWWW,(0,4)],0.996765
+[B  BWB  |  W     | W   W B| W W BW | B      |        |    W B |        ,(6,4)],-0.008477499
+[WWBWW BB|BWBBBW B|BW   BWW| BBBWWW |BWW  BWB|B W W BW|W WBBWBW|WWBBWWBB,(4,2)],0.99646217
+[  B  B  |  W  W  |B  WWW  |        |   W    |B WB   W| W    BB| WB B   ,(1,5)],-0.0242375
+[B BBB  W| WWBW   |   WBBW | WWWBWWB| B WWW B|WBB WW B|BWW WBB |  BB W B,(2,3)],0.996395
+[B W  BW | W   W  |  BB    | B  B  W|  W    W| BWW    |        |B  B    ,(0,0)],0.1557994
+[WWWBWWBB|BWBW BBW|BBWWBBWB|WB  WBWW|BWBWBWWW|WBWWWBBB|WBBB BWB|WBBWWBWB,(6,1)],0.99722004
+[W B     | WB     |B   WB  | W  W W | B  WBBB|W       |        |B W     ,(7,0)],0.5744238
+[ W    B |   B W  |B      W| B B WBW|W     W |    W WB|WB WB   |B  BW   ,(7,4)],0.21485892
+[WB W WBB|WBWB B W|BBW B WW|WWW WBWB|BWBWBBWB|BWBWBWBW|BB  BBBW|WWWBWWB ,(2,1)],0.996655
+[W       |  W    B|  W    B| BB WB  |   W  W |        |    B W |B      W,(7,7)],0.07430054
+[ W  BW B|BW WWW B|W BBWBW |BWBWBWBW|B BWWWBB|WW BB B |BBW    B|W WWWBBW,(1,4)],0.99653006
+[  B BW B|    WBBW|  WW BBB| WB WBWW|W W W BW|  B BWB | WB BBW |  BWBWW ,(7,2)],0.9947301
+[W     WB|W W   B |WW B    |     B  |  WWB  B| B  W   |WB   WBW|B WB B  ,(1,0)],-0.015540001
+[BB W W  |B  B W  |BB  B   | BW BW  |   WB   |WB W  B | BWW  WW| WW   B ,(5,1)],0.99575263
+[BBB W   |WW   B B|WW WB BW|B  BBB B| W  WW  |BW   B B|WWBW BBW|  WWWBWW,(2,7)],0.99630517
+[B W  WBW|  WWBWBB|B  WBB W|BB B BWW|B B BWB | W  BWBW| WWB WWB|WW W B W,(1,5)],0.996335
+[WBWBBWBW|BWBW WBW| WWW BBB|WWB B WW|BBW WWBB|WW BBWBB|WBWWW  W|BBBWWBBB,(4,4)],0.996735
+[W   BB B|BWWBWW W|  B  BBW| W  W B | BBWBB W|W WW  W |    WBBB|B W W BW,(1,7)],0.75021493
+[   WB  W|BW      |    B BB|  W     | B    W |       W|W WW   B|     B  ,(3,2)],0.5961967
+[BW BB B |  WW WBB|BBWWBBWW|WW B B B| BB WW W|BWB W W | W BWB B|W BB WWW,(1,6)],0.99595994
+[BWWWBWBB|WBWBBWWB|BBWB WBB|BW BBBWW|WWBWWWBW|WWWBBWBB|WBBWWBWW|BWB BWWB,(0,3)],0.99758995
+[      BW| W    BB|BBW  BB |  B  BW | W      | W   W  | WWBW   |  W   B ,(2,0)],0.79234546
+[WBWBWBWW|BWWWBWWB|WBBBWWBB|BWW BBBW|BWWBWBBW|WBBBWBWB|BW BWWW |BWW BWBB,(3,5)],0.99730504
+[    W   |   BW   |        |   W  B | W BB   |        |   W  B |     W  ,(7,5)],0.16728155
+[        |        | W      | B    W |    W   |B    W  |  B     |        ,(4,4)],-0.0057799993
+[        |B       |     B  |        |       W|   W  B |    W   |        ,(5,6)],0.17781748
+[ W B  B |W BWBWB | W    W | WBB BWB|WB   BW |B WWBB W|WB WW W |   B WB ,(1,5)],0.99503994
+[     WBB| B     W|B   W   |        |B W WB  | W      |  BW    |BW   BW ,(0,6)],0.43011373
+[B WBW  W|  WW W W|BWB  BWB| WBWBBW |WB WBBBW|BWBWW  W|BWBBBW B|WW BWBBB,(3,5)],0.9965051
+[  BW    |W    WW | BB B  W|WWW    B| WB BBWB|WBWW  BB|B   WB  |BB   WW ,(4,5)],0.91812766
+[ BWBWBBB| BB  WW |WWBBBWBW|BB W   W|BW B WWB|W W  BWB|WW BBW B|WWB BWW ,(7,4)],0.9959351
+[ BW     |     BB |        |   B W W|     B  |   WB   |   W    |    W   ,(5,4)],0.17315872
+[ BBBWWBW|WBWW WWB| BB WB  |BWBWWBWB|WB BBB B|BWB WWWB|WWBWB WW|BWBWWBBW,(4,4)],0.99667007
+[       W|WW      |BW B B  |  BW    | BW  WB |  WW BB |   WBB  |    BW W,(2,1)],0.90486133
+[BWWWBWB |WBBWWBBB|BWWBBWWB|WBWWWBBW|BWWBBWBW|BBBWWWB |WWWBWBWW|BBBWBBBW,(1,5)],0.99799
+[WWW B B |W  WW  W|BBW  BBW|BB    W |  WBW B |B  BW W |B B   WB|BWBW    ,(3,0)],0.96171504
+[   B  W |        |B  W   W|B B B   |     W  | B  W  W|        | W      ,(7,1)],0.13948044
+[BBB BBB |  WWW WW| W B B  |   WWBW |  B   WB|  B   B |W  WW B |WB  W   ,(6,6)],0.9886049
+[BWBWBWWB|BWWBBBW | WWWBWWW| B B W B|W WBBB B| WWB WWB|BW  BBBW|BBBWBWWW,(0,2)],0.9966551
+[WBBW BWW|BBBWBB B|B WBBWWW|B WBWWBB|WBWB  WB| WBWWWBB|WWB  WWW|BWWBBWWB,(7,2)],0.9966351
+[   BWB  |BWW WW  | WWBBWW | BBB B  |  W    B| B W  BB|W   W W |W   BB  ,(5,1)],0.91880494
+[ BW WBWB|B BBWBW |W BWWWBW|WBWW B W|WB  WW B| BWBBWBB|W WBWBBW|WBWBWBBB,(6,3)],0.99663496
+[B W     |BB BBWBW|   WWB W|W W WB  | BBB BWB| WW    B|BWWW    |   W    ,(1,5)],0.9832951
+[W    BBB|B BBB   |W  WW   |W   B W |WBW  WW |    WB  |     B W|BW   B  ,(7,0)],0.95527965
+[       W|        |     W  |        |     B W|      B |     W  |B    B  ,(7,0)],0.13508749
+[ W   BW |B    WB |BWB W  B|     B  | B   W  |WW B    |W WWB BB|   WW BW,(4,5)],0.75518745
+[WBWWBWWB|BWB BWBW|WBBBWBWW|WWWBWWBB|BW BBWWW|WWBWW BB|BBWBBWWB|WBBWBBWB,(7,0)],0.99762505
+[BB   BWW| WWBW  B| BB  WW |WB WBWBB|WWWB  WB|   WB BB|B W  BBW|WW B WW ,(1,4)],0.99289006
+[     B  | W      |   B   W|W     B |  B   W |BW  W   |    W   |B       ,(4,6)],0.13015938
+[        |        |        |        |        |        |        |      WB,(7,7)],0.081032164
+[  BWW B |BB BWW  |WW W WBB|WW WBW  |WBBWWB W|BB  WBBW| WBBB W | WB WBBB,(5,1)],0.99603015
+[W W  WBW|BWWW   B| B  B B |WW  B B |B       |  BWBW B|WW   W B| W BW  B,(6,1)],0.8976151
+[   B    |        |        |   W    |        |        |        |   W    ,(3,3)],-0.002933125
+[     WW |   B W  |WB   BWW| W WBW B|B   W B | BWB B  |W     B |  W  BB ,(5,1)],0.8879102
+[ B W W  |B   W WB|B    B  | WWB  BB|     B B|  BW B W|      WW|W  WW  B,(5,2)],0.69467795
+[WWWBWBBW|WBWWW WW|WWBWBBBW| BB    B|BBWBWBWW|BWBBWBB |WBBW BBB|WBW WWWB,(4,2)],0.99666005
+[BWWBWWBB|WWWBB BB|WBBWBBWW|BBBW BWB|WWBBB WB|BWWBWWBW|WBWWW WB|WBWBBBWW,(5,0)],0.9973351
+[BBW WBWB|WWBBBWWB|B W BBWW|B WB  BB|WW W WWW|BB  WBWB|BWW  BWB| BW     ,(6,0)],0.996315
+[ B   BBB|W    BB |BW     W|     B B|WW WW   |WB   WB |W   W WB|  W W B ,(2,7)],0.8931556
+[B  W WBW|WBWB WWW|BBWB  BB| BB WB B|WWWBWBW |WWWB   W|BW B BB |BBWWBWW ,(7,3)],0.99629
+[ WBWWBWW|  WBWB B|      BW| BBW WB |BWW WBB |   BW WB|WWBWBWB |B BBWB W,(4,6)],0.9964099
+[BWBB BWB|WBBBWBWW|W WWB B |BB      |WB     B|BWBWB WW|W W B  W| WWBB WW,(5,0)],0.96987754
+[WB W W W|BWBWW BB|WB B BWW|W WBW  W|  BWB BW|B B W WB|B   B   |B  BWWBW,(2,7)],0.9561564
+[W B BW  |  W   W |  B B  W| BWW B B|B WWB  B|WB  B  B|W       | W    W ,(4,0)],-0.026847497
+[B WBW BB|W WW BWW|BWBBWWBW|B BWB  B|WWBBBWBB|W  WWBW |W B WW B|BWW BWBB,(1,5)],0.996305
+[WB WBW B|WBWWWBWB|BWBBWBWW| B WBWWB|B BW W W|WWW B BW|BBW BWBB|BWBWWBBB,(7,7)],0.99677503
+[     B W|   W  B |        |  B     |W W     | W     W| B  WB  | B B  W ,(4,2)],0.1423275
+[WB B WBW|  BWBBBW|B BBWBW |WBBWWB  |W WBB  B|  W WBW |    W BW|WBWB W W,(2,3)],0.99622
+[BBWWBWBW|BBWWWBBW|W WBBWWW|BBBWWBBB|WWBBWBWW|WBBW BWB|BWWBBWWW|WBBWBWBB,(3,1)],-0.5
+[B WWB WW|W   B  W| BWW BWB|W WWW   |W B  B  | B  BW  |B   B B |B WB  BW,(7,2)],0.6939076
+[BBW B  B|   B WW |WW   WBW|  W  B B|WB W  B |     BB |WWBWWBB | WW B  W,(6,0)],0.9950649
+[  WWB WB|WBWBB WB|BBW WWWB| WBWB BW|B   B  W| BWBBWW | WB W WW|B W   BB,(3,3)],0.99570495
+[WB W    |B       |W B W   |W B   B |  B    W|W     B | B    W |        ,(0,1)],0.5795791
+[B       |B B     |BWWW B B|  WBWW  |        |   W    |  BW    |        ,(2,0)],0.5176612
+[ BW   W |  W B   |B  B WWB| W W    | W   BB |W  W  B |B BB   W| B  B WW,(0,1)],0.07059055
+[W BW WWB|W  B B  | BBW WBW|BWBWWWBB|WBB  B B|BWWB WWW| WBW BWW|B WB B  ,(5,7)],0.99582005
+[WWB WBW | BWB B W|BBWBW  B|BWB WWWB| WBBBWB | W  WB  | BBB WWB|WWBWBWWW,(3,6)],0.99486506
+[ W  BBB |BWWW    |W       |        |       W|B  B    |    WW  | B      ,(2,0)],0.7801965
+[ B      |W  W    |        |      B |        | B  W   |        |     WB ,(3,6)],0.14775375
+[  W WBB |   WWBBB|WB WWBW |B     B | BW  B  |  W BB B|W BW  W | WW     ,(5,7)],0.94014615
+[WBBB   W|     W  |B B  BBW|   BWWW | W B BWW|     W B| B WB WW|    BWB ,(6,4)],0.9044849
+[   WBBW |B  WW  W| BB  W  |WWB WBBW|WBW  BWB|WWBB  BB| W B BWB|B W W BW,(7,6)],0.9691949
+[ WWB BBW|WBB BBBW| BWWBWW | W  WB B|BWB  WWB|WBWBBW W|  WBB B | W  WWBW,(5,5)],0.9959
+[WWBWBWBB|WWBBBWBW|BBWWBBWB|WBWBWW B|WWBWBBWW|BWBWWWBW|WBWWBBWW|BWBBWBBB,(3,4)],0.0
+[BB  WWWB| B WWB B|BW BB   |  BWBW B| WB WBWW|WWW BBW |   BB WW|BWW    B,(3,7)],0.9959299
+[WWBWWBWW|WBBW WBB|WWW BBWW|BB WWBBB|BBW  BWB|  WBBW W|B W W B |WWBB WBB,(6,4)],0.9965501
+[W BBWW B|   WBWBB| WBWWWBW|W WBWBWB|BBBWWBWB|WWBWBWWW|BWBBBWBW|BBWWWBBB,(2,1)],-0.005183126
+[WW BB  B|WB WBWW |B BWWBWW|  BW B  |WBB BW W| BWBW B |W WW BBW|B B  B W,(3,2)],0.9964199
+[ WWWBWBW|WB WWW B|WBBB WWW|BBBWBBBW|BWBBBWBB|WBWWW BW|BBWW WWW|B   B BB,(3,4)],0.99679005
+[W     B |        |        |        |B       |        |W W     |  B     ,(0,6)],0.099572375
+[ B W W  |BB WBBB |B  BB WW|BBW   WB|W W B B |W WB W  |BW W W W|  BWWBW ,(7,3)],0.99473506
+[B BBW  B|W   B  W| BWBB W |B WW W W|W  BBW B|  WWWBBB|WW  W BW|BB B W  ,(2,4)],0.99630994
+[B       |        |  B     |    W   |        |    B   | W    W |      W ,(7,6)],0.081893094
+[        |        |        |        |W       |        |        |B       ,(7,0)],0.11279501
+[B  WBWBW|BWWWBBWW| WWWB  W|BB  WBBB| BWWWBWB|BWBW  WW|BBB BWBB|WW   W B,(1,1)],0.99658
+[    W   |        |B       |    B   |  B     |        |       W|     WW ,(7,5)],0.16526
+[BBBWW BB|  WWBWBW|  WWWB  |B  B  W |BB   WWW|B W     |  WBB BW|WBWB BW ,(5,0)],0.99508
+[BW  BW B| BBWBBW |WB WBW W|WBW  BWB|WWWBW BB| WBB  BW|B  WWBWW|BWB  BWW,(5,7)],0.9961901
+[BBWWWBWB|BB B BB | BW  W W|B   WWWB|  WWWB  |B  BBW  |WBW BWW |WBB WW B,(3,0)],0.9963301
+[WB  WW  |W    W B|WW W B  |   B BB |    B  B|BW  WB  |WBB WW W| BBBW W ,(5,4)],0.9930501
+[BWW  B W|BWWBWBWB|WW     B|BB  WBBB|WBWB B  |W B   W | WWW B B|W W B BW,(7,6)],0.99601996
+[B B WW W| BWB BWW| BBWW   |WB WB BB|  B  WW |WB  W B |WB B BWB| WB WBWW,(5,1)],0.89149505
+[        |        |  W W   | W      |    B   |        | B      |        ,(2,4)],-0.0030125002
+[W  WBBWB|BWBBWBWW|BB W W B| BBWBB W|WBB WBWB|W WWW W |WWBBWW B|BBBWBBWW,(0,4)],0.99642503
+[W  BW  B| BB WBWW|B WBB BB|W WB W  |W W  BB |  BB  WW|W  BWWB | BW W WB,(0,3)],0.9442776
+[BWBWBBWW|BWBWW WW|BBWBB   |W  BBWBB|   W  WB|WW WW WB|W  BBW W|  WB BBB,(5,1)],0.99645996
+[W W BWW |B WW B W| BB WBWB|BBWW   B| WW  W  | B W  BW|B BB  WW|BWBW B B,(6,6)],0.9335287
+[   W W  |B B  WW |   B  BW|     WW |W      B|   B    |  W     | BB  BW ,(3,5)],0.10909282
+[ W BWBW |WW WBB  |W BW   B|   WBW  |BWB BWWB|W W W B |     B W|BB  W BB,(5,2)],0.74675083
+[WWBBWWBW|W BW BBB|WWWBW  W|BBBWWB W| BBWBWWB| W WWBWB|B B  B  | BWWBW B,(1,0)],0.99657506
+[ BB  WBW|W BWW BW|W W W WW|B  BW B | W B W W| B B  WB|BBW BBB |W   BWBW,(7,7)],0.9961251
+[ BW   WW|   WB BB|B BB BWW|WWWB  W |BB B WB | B W WB |WW BB BW|     WW ,(1,4)],0.97024983
+[ B   WWB|B WB WWW| BW W BB|  W  W B|B  WW  W|   BWWB |WB  B   |BB      ,(1,2)],-0.0345625
+[WB W B  |      W |W       |       B|      B |  BW B  |WB      |    WW  ,(7,5)],0.47731835
+[WW W B W|B   BW  | BW  BWB|W W    B|W  BWW  |W  WBB  |  BW B  |BB  BW  ,(0,3)],0.68228567
+[BWWB  W |BW BBB  |BWBB WBW| BB  WWW|W WWWB W|WW B B  |BBBW BWB|WBBW W W,(7,7)],0.99623
+[WBW   WB| B WBB  |WWBBBWWB| BW  BWB| W WWWB |WBW  WBW|W WBBBW |  BWB BB,(2,3)],0.99536
+[ BBB    |WW BW WW|    B  W| BBW B  |  B     | B  BWW |WBWWBWW |B   B  W,(1,0)],1.0
+[ B  B   |WWWW  B |   W    |BBW   W |   W B W|W WBB B | B  W B |W B     ,(0,1)],1.0
+[BBW  W B|  WB   B|WBW   WB|W W B W | WW    B|BW    W |W    BBB|   W  B ,(0,0)],1.0
+[ BBW WWW|WW BWB W|WBBWBWBB|BWBBWWBB|WBBB BWB|WB WWWBW|W WB   W|BWBWBBBW,(0,3)],1.0
+[ B      | W      |BWW  BW |W  WBWBB| B WBBBB|WWBW W  | WBB B B| W  WBWW,(1,1)],1.0
+[   WW WB|W      B|       B|  W   WB|    B BB|   W    |B    W  |    W  B,(0,3)],1.0
+[WW W  B |BBW  B  | BBWB W |W   WB B|   BW  W| W B   B|WBWWBBW | B  W  W,(0,6)],1.0
+[ WWB  B |    BBWB|BWWB   W|WBBW W W| W W    | B WWWWB|      B |B  BB WB,(0,3)],1.0
+[     BW |  B     |   W    |BW W   B|B  B WW |BW   B  |B W     |W B   W ,(0,6)],1.0
+[  W BBW |B BBWBW |BBB   WB|W  BB W |B BW W B|BW   W  | W W  W |WW  W   ,(0,4)],1.0
+[W  BB   |W WBWB W| B WWW  |  BWB  B|W WB   B| WB     | W  W BB|WB WBB W,(0,3)],1.0
+[     WB |      W |BBW     |WB      |       B| WWWW  B|  B BW  |B   B WW,(0,6)],1.0
+[        |  WWB W |   WBWWB|  B    W|   B W W|W B B W | B WB WB|BBW BB  ,(1,2)],1.0
+[  W BBBW|  WW  WB|BBB WBWW|W  W  W |WW   B B|  WWB B |BWBWW  W|B   BBB ,(0,4)],1.0
+[        |BBB    B|W   WW  |   W  W |       W|B W  W W| B  B WB| W BBBBW,(2,0)],1.0
+[ WW  B  |WB    B | BW  B  |  W B  B|   BB  B|W WB  WW|B BW WBW| WW WWBB,(0,1)],1.0
+[B BW  BW| WBWW  W|     W B|WW   WW |     B  |    B   |B  W  BB|B W   B ,(0,0)],1.0
+[    W   |     B B|  BBBB  |       B|W   WW  |     W  |W       | W      ,(0,4)],1.0
+[WB WB   |W WB  W |B W  W  |WB   B B|  WBBBB |W WWW   |B     BB|W  W   B,(0,0)],1.0
+[ WB  W B| B B   W| WBW BBW|  B W   |B  B  W |    BW  |B B W  W| W WB WW,(0,2)],1.0
+[WWW B BB| WWBWW  | B  B B | W BBW B|   B WBW|  WBW W |  BWW BB| BWW BW ,(0,4)],1.0
+[   WWW  | BWB    |W BBB W |BWWB   W|BB WWBB | WB   B |   B BW | WB  WW ,(0,3)],1.0
+[   WB   |B   W   |    WW  | BB   WB| W      |WB  BB  | B   W  | W WW  B,(0,4)],1.0
+[  WB B  | WW W  B| BB BBW |  B   B |  B W   |W    B B|WWW  BWB|B  WWWWW,(0,3)],1.0
+[B BBWWBB|BBBWBW W| WW  WBW|WBWWB  B|WWWB WBB|WBW B  W| WWB BWB|W B WBWB,(0,0)],1.0
+[    B WB|  WWB  B|    B   | W  B   |W      B| B    WB|WW WW B |        ,(0,6)],1.0
+[ W W BB |  BB W  |BB      |BWW BW W|   WBBBW| WW   WW|B  B  WW| WWB BB ,(0,5)],1.0
+[   WBW W| WWB    |  WW   W| W B    | B  B   |  B  BW |B   B B |        ,(0,3)],1.0
+[  B   WB|  W     | W B  WB|B      B|BB     W|  W    W| B  W  W|B  W   W,(0,2)],1.0
+[  W    B|  WBW   |    B W |   W    | B W WBW|      BW|WWBBBB B|WW BBW B,(0,2)],1.0
+[BW  WWWB|WBBB W W| WB W BW|BB   WWB|WB  BWWB|WW  B W |BB  BB  |WBBWBW  ,(0,1)],1.0
+[  WB   W|   W  W |   W WB |B   W   |     BBB|   B    |   W W  |    B   ,(0,3)],1.0
+[BB BWBBB|WBWW   B| W  WBWW|B B W  B|    WWBW|   W B  | BW  BWW|WW   BBW,(0,0)],1.0
+[BB     B|W W   W |B  W W  |   BWB  |   B W  |   WW B |W  BW   | W B   B,(0,0)],1.0
+[  B  W  |B    W  |  WB  W |BBBB    |W W    W|   B   W|BWBW    |  B    W,(0,5)],1.0
+[ BW B   | WWWWWB |BB B  WW|  B WBWW|  W     |  W BWBB|WB   BBB|    W   ,(0,1)],1.0
+[B  W BBB|B    BWW|  W     | W WWWB |B W  B  |W  BBBB |WWWBB W |  BWBW W,(0,3)],1.0
+[   BB W |WBB W W |WWWWBBB |   BW   | W B BW |  B W  B|  BW  B |  W WB W,(0,3)],1.0
+[WBWB    | BW WBB | BW  B B|B B  WB |    WWW |B   WWWW|  W  BW |BWB     ,(0,1)],1.0
+[ B B  B |BBW   B |    BW W|B BBWWW |  BB W  |WB    W |WW W B  |WB  WW  ,(1,2)],1.0
+[ B     B|  W  W  |        |B      W|WB  W W |  B B  W|   B  B |       W,(1,2)],1.0
+[BWBWBW B|BWB BBW |W  B WWW|WBB WBBW|BW BB WB|BWBWWBWW|B WWBWBW|  BWWWBB,(0,1)],1.0
+[ W BB BW|W WW B  |BBW  BB |W  BW WB|BW  WBW | BB B   |WW  W  W|B WWBB  ,(0,1)],1.0
+[BWWWW   |W   BW  |WB B    | BBW   W|BW BB   |BBWB    |BB   W W| WWB  W ,(0,0)],1.0
+[BB B WWW| BWB    |BB  WB B|   W B  |W    W  | BBBW W |     B  | WWWWW  ,(0,0)],1.0
+[W WWWBW |WBWBWBBW|BWBW WBB|W B W   |WWW B B | BB BW  |WWBBWBB |BBWWBW B,(0,5)],1.0
+[W  WBW W| B  W   | WB  WWB|     BW |BW  B  B|BWWB B  |     BB |   WW BW,(0,4)],1.0
+[ WW BB B|WB WB W |BWBWWBBB| BBWWBW |B    WB |BBBWWW W| WWWBB W|BB WWBWW,(0,4)],1.0
+[  W  WBB|WW W B W|  W   B |BB W    |B B WW  |   BW   | BWB  WW|B  BB W ,(0,6)],1.0
+[BWWWB  W| BB WB B| W   B W|BWWB WBW| B   BBW| W     W| WBB W  |BWW  WBB,(0,0)],1.0
